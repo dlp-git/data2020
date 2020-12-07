@@ -1,0 +1,1046 @@
+Autowired annotation is not supported on static fields: private static final org.slf4j.Logger com.dlp.www.dwlogger.LogJsonController.logger
+{"area":"heilongjiang","uid":"216","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_496","type":"startup","vs":"1.1.3","ts":1605613728030}
+{"area":"heilongjiang","uid":"216","itemid":26,"npgid":30,"evid":"addCart","os":"ios","pgid":31,"appid":"data2020","mid":"mid_496","type":"event","ts":1605631270784}
+{"area":"heilongjiang","uid":"216","itemid":43,"npgid":42,"evid":"addComment","os":"ios","pgid":31,"appid":"data2020","mid":"mid_496","type":"event","ts":1605616285437}
+{"area":"beijing","uid":"495","os":"andriod","ch":"website","appid":"data2020","mid":"mid_127","type":"startup","vs":"1.2.0","ts":1605614328965}
+{"area":"beijing","uid":"495","itemid":3,"npgid":50,"evid":"addFavor","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_127","type":"event","ts":1605628355943}
+{"area":"guangdong","uid":"387","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_75","type":"startup","vs":"1.2.0","ts":1605618537511}
+{"area":"guangdong","uid":"387","itemid":16,"npgid":29,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_75","type":"event","ts":1605627581960}
+{"area":"guangdong","uid":"387","itemid":44,"npgid":5,"evid":"addCart","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_75","type":"event","ts":1605627073617}
+{"area":"guangdong","uid":"387","itemid":25,"npgid":43,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_75","type":"event","ts":1605622737554}
+{"area":"guangdong","uid":"387","itemid":1,"npgid":19,"evid":"clickItem","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_75","type":"event","ts":1605620551830}
+{"area":"beijing","uid":"452","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_440","type":"startup","vs":"1.1.3","ts":1605630168844}
+{"area":"beijing","uid":"452","itemid":31,"npgid":17,"evid":"addComment","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_440","type":"event","ts":1605617539524}
+{"area":"beijing","uid":"452","itemid":14,"npgid":25,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_440","type":"event","ts":1605629779549}
+{"area":"beijing","uid":"452","itemid":11,"npgid":22,"evid":"clickItem","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_440","type":"event","ts":1605616039318}
+{"area":"beijing","uid":"452","itemid":29,"npgid":50,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_440","type":"event","ts":1605627261903}
+{"area":"beijing","uid":"452","itemid":46,"npgid":33,"evid":"addComment","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_440","type":"event","ts":1605620981666}
+{"area":"beijing","uid":"452","itemid":37,"npgid":11,"evid":"clickItem","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_440","type":"event","ts":1605628572859}
+{"area":"beijing","uid":"452","itemid":22,"npgid":49,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_440","type":"event","ts":1605621348316}
+{"area":"beijing","uid":"452","itemid":44,"npgid":5,"evid":"addComment","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_440","type":"event","ts":1605623056004}
+{"area":"beijing","uid":"452","itemid":7,"npgid":26,"evid":"clickItem","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_440","type":"event","ts":1605624999461}
+{"area":"beijing","uid":"340","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_441","type":"startup","vs":"1.2.0","ts":1605620918656}
+{"area":"beijing","uid":"340","itemid":19,"npgid":12,"evid":"addFavor","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_441","type":"event","ts":1605616071999}
+{"area":"beijing","uid":"340","itemid":25,"npgid":34,"evid":"addComment","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_441","type":"event","ts":1605625068456}
+{"area":"beijing","uid":"340","itemid":46,"npgid":16,"evid":"addComment","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_441","type":"event","ts":1605630250551}
+{"area":"beijing","uid":"340","itemid":37,"npgid":18,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_441","type":"event","ts":1605616037749}
+{"area":"beijing","uid":"333","os":"andriod","ch":"360","appid":"data2020","mid":"mid_443","type":"startup","vs":"1.2.0","ts":1605621168009}
+{"area":"beijing","uid":"333","itemid":8,"npgid":40,"evid":"addComment","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_443","type":"event","ts":1605614487460}
+{"area":"beijing","uid":"333","itemid":45,"npgid":50,"evid":"clickItem","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_443","type":"event","ts":1605630900733}
+{"area":"shandong","uid":"267","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_102","type":"startup","vs":"1.1.2","ts":1605622131243}
+{"area":"shan3xi","uid":"243","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_220","type":"startup","vs":"1.2.0","ts":1605624740150}
+{"area":"shan3xi","uid":"243","itemid":8,"npgid":1,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_220","type":"event","ts":1605613402264}
+{"area":"shan3xi","uid":"243","itemid":18,"npgid":32,"evid":"addCart","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_220","type":"event","ts":1605628139769}
+{"area":"shan3xi","uid":"243","itemid":3,"npgid":46,"evid":"addCart","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_220","type":"event","ts":1605616985900}
+{"area":"shan3xi","uid":"243","itemid":38,"npgid":50,"evid":"addCart","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_220","type":"event","ts":1605629384336}
+{"area":"shan3xi","uid":"243","itemid":30,"npgid":11,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_220","type":"event","ts":1605614066576}
+{"area":"shan1xi","uid":"194","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_17","type":"startup","vs":"1.1.3","ts":1605628152915}
+{"area":"guangdong","uid":"53","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_114","type":"startup","vs":"1.1.3","ts":1605620061213}
+{"area":"guangdong","uid":"53","itemid":49,"npgid":45,"evid":"addCart","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_114","type":"event","ts":1605618832846}
+{"area":"shanghai","uid":"17","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_230","type":"startup","vs":"1.1.2","ts":1605619065294}
+{"area":"shanghai","uid":"17","itemid":37,"npgid":50,"evid":"clickItem","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_230","type":"event","ts":1605620875380}
+{"area":"shanghai","uid":"17","itemid":15,"npgid":2,"evid":"addCart","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_230","type":"event","ts":1605629169096}
+{"area":"shanghai","uid":"17","itemid":46,"npgid":46,"evid":"addCart","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_230","type":"event","ts":1605618264702}
+{"area":"shanghai","uid":"17","itemid":15,"npgid":35,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_230","type":"event","ts":1605631034223}
+{"area":"shanghai","uid":"17","itemid":20,"npgid":24,"evid":"addComment","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_230","type":"event","ts":1605624792945}
+{"area":"shanghai","uid":"17","itemid":29,"npgid":48,"evid":"clickItem","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_230","type":"event","ts":1605613537774}
+{"area":"shanghai","uid":"17","itemid":8,"npgid":31,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_230","type":"event","ts":1605619114693}
+{"area":"shanghai","uid":"17","itemid":37,"npgid":46,"evid":"addComment","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_230","type":"event","ts":1605625586050}
+{"area":"shanghai","uid":"17","itemid":0,"npgid":4,"evid":"addComment","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_230","type":"event","ts":1605618656988}
+{"area":"shanghai","uid":"17","itemid":27,"npgid":13,"evid":"addComment","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_230","type":"event","ts":1605615123050}
+{"area":"shanghai","uid":"17","itemid":41,"npgid":13,"evid":"addComment","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_230","type":"event","ts":1605613807442}
+{"area":"shanghai","uid":"17","itemid":44,"npgid":5,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_230","type":"event","ts":1605630563526}
+{"area":"shanghai","uid":"17","itemid":16,"npgid":43,"evid":"addComment","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_230","type":"event","ts":1605630006227}
+{"area":"shanghai","uid":"17","itemid":26,"npgid":42,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_230","type":"event","ts":1605625691364}
+{"area":"shandong","uid":"54","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_380","type":"startup","vs":"1.2.0","ts":1605618502279}
+{"area":"shandong","uid":"54","itemid":14,"npgid":19,"evid":"clickItem","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_380","type":"event","ts":1605624805560}
+{"area":"shandong","uid":"54","itemid":2,"npgid":47,"evid":"addCart","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_380","type":"event","ts":1605626482963}
+{"area":"guangdong","uid":"365","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_309","type":"startup","vs":"1.1.3","ts":1605618548748}
+{"area":"guangdong","uid":"365","itemid":35,"npgid":24,"evid":"addCart","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_309","type":"event","ts":1605624684016}
+{"area":"guangdong","uid":"365","itemid":17,"npgid":41,"evid":"addCart","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_309","type":"event","ts":1605629412059}
+{"area":"guangdong","uid":"365","itemid":32,"npgid":45,"evid":"clickItem","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_309","type":"event","ts":1605618691446}
+{"area":"guangdong","uid":"365","itemid":18,"npgid":30,"evid":"clickItem","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_309","type":"event","ts":1605615165745}
+{"area":"guangdong","uid":"365","itemid":27,"npgid":37,"evid":"clickItem","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_309","type":"event","ts":1605613529212}
+{"area":"guangdong","uid":"365","itemid":22,"npgid":30,"evid":"addCart","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_309","type":"event","ts":1605624561734}
+{"area":"beijing","uid":"314","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_285","type":"startup","vs":"1.2.0","ts":1605620961386}
+{"area":"beijing","uid":"314","itemid":11,"npgid":12,"evid":"addComment","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_285","type":"event","ts":1605631186571}
+{"area":"beijing","uid":"314","itemid":41,"npgid":9,"evid":"addCart","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_285","type":"event","ts":1605624039425}
+{"area":"beijing","uid":"314","itemid":36,"npgid":14,"evid":"addCart","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_285","type":"event","ts":1605615852310}
+{"area":"beijing","uid":"314","itemid":6,"npgid":2,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_285","type":"event","ts":1605630732566}
+{"area":"beijing","uid":"314","itemid":10,"npgid":28,"evid":"clickItem","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_285","type":"event","ts":1605629836519}
+{"area":"beijing","uid":"314","itemid":33,"npgid":47,"evid":"clickItem","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_285","type":"event","ts":1605626332573}
+{"area":"beijing","uid":"314","itemid":20,"npgid":29,"evid":"addCart","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_285","type":"event","ts":1605622823244}
+{"area":"beijing","uid":"314","itemid":36,"npgid":7,"evid":"clickItem","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_285","type":"event","ts":1605626030824}
+{"area":"beijing","uid":"314","itemid":5,"npgid":34,"evid":"addFavor","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_285","type":"event","ts":1605628661646}
+{"area":"beijing","uid":"314","itemid":17,"npgid":11,"evid":"clickItem","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_285","type":"event","ts":1605620400289}
+{"area":"beijing","uid":"314","itemid":42,"npgid":50,"evid":"addFavor","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_285","type":"event","ts":1605622125797}
+{"area":"beijing","uid":"314","itemid":18,"npgid":31,"evid":"addComment","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_285","type":"event","ts":1605617793462}
+{"area":"beijing","uid":"314","itemid":27,"npgid":33,"evid":"addComment","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_285","type":"event","ts":1605622660761}
+{"area":"beijing","uid":"314","itemid":35,"npgid":38,"evid":"addCart","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_285","type":"event","ts":1605625537020}
+{"area":"beijing","uid":"314","itemid":7,"npgid":3,"evid":"addComment","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_285","type":"event","ts":1605620448921}
+{"area":"beijing","uid":"314","itemid":40,"npgid":46,"evid":"clickItem","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_285","type":"event","ts":1605618857519}
+{"area":"beijing","uid":"314","itemid":22,"npgid":16,"evid":"clickItem","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_285","type":"event","ts":1605618125631}
+{"area":"beijing","uid":"314","itemid":19,"npgid":24,"evid":"clickItem","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_285","type":"event","ts":1605615999855}
+{"area":"beijing","uid":"314","itemid":32,"npgid":39,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_285","type":"event","ts":1605615370110}
+{"area":"beijing","uid":"314","itemid":1,"npgid":29,"evid":"addComment","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_285","type":"event","ts":1605622770445}
+{"area":"beijing","uid":"314","itemid":7,"npgid":41,"evid":"addFavor","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_285","type":"event","ts":1605630209354}
+{"area":"guangdong","uid":"30","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_402","type":"startup","vs":"1.2.0","ts":1605615757722}
+{"area":"guangdong","uid":"30","itemid":47,"npgid":45,"evid":"clickItem","os":"ios","pgid":7,"appid":"data2020","mid":"mid_402","type":"event","ts":1605619715457}
+{"area":"guangdong","uid":"243","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_107","type":"startup","vs":"1.1.3","ts":1605629819692}
+{"area":"guangdong","uid":"243","itemid":42,"npgid":17,"evid":"addCart","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_107","type":"event","ts":1605625355557}
+{"area":"guangdong","uid":"243","itemid":39,"npgid":35,"evid":"addComment","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_107","type":"event","ts":1605627223023}
+{"area":"guangdong","uid":"243","itemid":41,"npgid":3,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_107","type":"event","ts":1605615792277}
+{"area":"guangdong","uid":"243","itemid":15,"npgid":22,"evid":"clickItem","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_107","type":"event","ts":1605630616236}
+{"area":"guangdong","uid":"243","itemid":31,"npgid":21,"evid":"addComment","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_107","type":"event","ts":1605629404319}
+{"area":"sichuan","uid":"167","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_16","type":"startup","vs":"1.2.0","ts":1605626100490}
+{"area":"sichuan","uid":"167","itemid":19,"npgid":24,"evid":"clickItem","os":"ios","pgid":7,"appid":"data2020","mid":"mid_16","type":"event","ts":1605625591618}
+{"area":"sichuan","uid":"167","itemid":16,"npgid":20,"evid":"clickItem","os":"ios","pgid":45,"appid":"data2020","mid":"mid_16","type":"event","ts":1605614826078}
+{"area":"sichuan","uid":"167","itemid":18,"npgid":8,"evid":"clickItem","os":"ios","pgid":34,"appid":"data2020","mid":"mid_16","type":"event","ts":1605627528374}
+{"area":"sichuan","uid":"167","itemid":15,"npgid":25,"evid":"clickItem","os":"ios","pgid":31,"appid":"data2020","mid":"mid_16","type":"event","ts":1605628575135}
+{"area":"sichuan","uid":"167","itemid":39,"npgid":14,"evid":"addCart","os":"ios","pgid":15,"appid":"data2020","mid":"mid_16","type":"event","ts":1605624577985}
+{"area":"sichuan","uid":"167","itemid":48,"npgid":47,"evid":"addFavor","os":"ios","pgid":17,"appid":"data2020","mid":"mid_16","type":"event","ts":1605630447466}
+{"area":"tianjin","uid":"209","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_318","type":"startup","vs":"1.2.0","ts":1605619994433}
+{"area":"tianjin","uid":"209","itemid":7,"npgid":45,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_318","type":"event","ts":1605631206953}
+{"area":"tianjin","uid":"209","itemid":13,"npgid":26,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_318","type":"event","ts":1605630661784}
+{"area":"tianjin","uid":"209","itemid":46,"npgid":9,"evid":"addComment","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_318","type":"event","ts":1605614261012}
+{"area":"tianjin","uid":"209","itemid":23,"npgid":6,"evid":"addComment","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_318","type":"event","ts":1605626692142}
+{"area":"heilongjiang","uid":"120","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_189","type":"startup","vs":"1.2.0","ts":1605614875401}
+{"area":"heilongjiang","uid":"120","itemid":21,"npgid":20,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_189","type":"event","ts":1605622687528}
+{"area":"heilongjiang","uid":"120","itemid":24,"npgid":19,"evid":"addComment","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_189","type":"event","ts":1605624635560}
+{"area":"heilongjiang","uid":"120","itemid":46,"npgid":22,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_189","type":"event","ts":1605626123564}
+{"area":"heilongjiang","uid":"120","itemid":3,"npgid":35,"evid":"addCart","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_189","type":"event","ts":1605625367275}
+{"area":"tianjin","uid":"198","os":"andriod","ch":"360","appid":"data2020","mid":"mid_90","type":"startup","vs":"1.1.3","ts":1605629797042}
+{"area":"beijing","uid":"114","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_432","type":"startup","vs":"1.2.0","ts":1605630337510}
+{"area":"beijing","uid":"114","itemid":37,"npgid":50,"evid":"addFavor","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_432","type":"event","ts":1605617422783}
+{"area":"beijing","uid":"427","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_323","type":"startup","vs":"1.1.3","ts":1605625092933}
+{"area":"beijing","uid":"427","itemid":3,"npgid":8,"evid":"clickItem","os":"ios","pgid":3,"appid":"data2020","mid":"mid_323","type":"event","ts":1605631037983}
+{"area":"shandong","uid":"445","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_177","type":"startup","vs":"1.2.0","ts":1605616866938}
+{"area":"shandong","uid":"445","itemid":38,"npgid":44,"evid":"addFavor","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_177","type":"event","ts":1605623620361}
+{"area":"shandong","uid":"445","itemid":1,"npgid":4,"evid":"addCart","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_177","type":"event","ts":1605621556891}
+{"area":"beijing","uid":"410","os":"andriod","ch":"360","appid":"data2020","mid":"mid_193","type":"startup","vs":"1.2.0","ts":1605615053895}
+{"area":"beijing","uid":"410","itemid":3,"npgid":29,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_193","type":"event","ts":1605620414292}
+{"area":"beijing","uid":"410","itemid":8,"npgid":45,"evid":"addComment","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_193","type":"event","ts":1605624563122}
+{"area":"beijing","uid":"410","itemid":7,"npgid":4,"evid":"clickItem","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_193","type":"event","ts":1605627806721}
+{"area":"beijing","uid":"410","itemid":31,"npgid":28,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_193","type":"event","ts":1605621049259}
+{"area":"beijing","uid":"410","itemid":15,"npgid":42,"evid":"addComment","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_193","type":"event","ts":1605628880847}
+{"area":"beijing","uid":"410","itemid":47,"npgid":34,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_193","type":"event","ts":1605618155598}
+{"area":"beijing","uid":"410","itemid":44,"npgid":50,"evid":"addComment","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_193","type":"event","ts":1605623650331}
+{"area":"beijing","uid":"410","itemid":41,"npgid":25,"evid":"addComment","os":"andriod","pgid":12,"appid":"data2020","mid":"mid_193","type":"event","ts":1605624988801}
+{"area":"beijing","uid":"410","itemid":27,"npgid":50,"evid":"clickItem","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_193","type":"event","ts":1605622026082}
+{"area":"beijing","uid":"410","itemid":14,"npgid":47,"evid":"addComment","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_193","type":"event","ts":1605629785473}
+{"area":"beijing","uid":"410","itemid":45,"npgid":42,"evid":"clickItem","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_193","type":"event","ts":1605618996217}
+{"area":"beijing","uid":"410","itemid":41,"npgid":24,"evid":"addComment","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_193","type":"event","ts":1605617972424}
+{"area":"beijing","uid":"410","itemid":5,"npgid":4,"evid":"addCart","os":"andriod","pgid":47,"appid":"data2020","mid":"mid_193","type":"event","ts":1605628492835}
+{"area":"beijing","uid":"410","itemid":7,"npgid":37,"evid":"addFavor","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_193","type":"event","ts":1605630334825}
+{"area":"beijing","uid":"410","itemid":16,"npgid":9,"evid":"addComment","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_193","type":"event","ts":1605623524454}
+{"area":"beijing","uid":"410","itemid":38,"npgid":48,"evid":"addFavor","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_193","type":"event","ts":1605629188038}
+{"area":"beijing","uid":"410","itemid":6,"npgid":36,"evid":"clickItem","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_193","type":"event","ts":1605629143737}
+{"area":"beijing","uid":"410","itemid":39,"npgid":17,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_193","type":"event","ts":1605627405393}
+{"area":"hebei","uid":"175","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_13","type":"startup","vs":"1.2.0","ts":1605622386728}
+{"area":"hebei","uid":"175","itemid":36,"npgid":50,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_13","type":"event","ts":1605617720675}
+{"area":"guangdong","uid":"463","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_396","type":"startup","vs":"1.1.2","ts":1605613906733}
+{"area":"guangdong","uid":"463","itemid":44,"npgid":30,"evid":"clickItem","os":"ios","pgid":30,"appid":"data2020","mid":"mid_396","type":"event","ts":1605622555693}
+{"area":"guangdong","uid":"463","itemid":31,"npgid":19,"evid":"addComment","os":"ios","pgid":44,"appid":"data2020","mid":"mid_396","type":"event","ts":1605622507200}
+{"area":"guangdong","uid":"463","itemid":22,"npgid":39,"evid":"addComment","os":"ios","pgid":22,"appid":"data2020","mid":"mid_396","type":"event","ts":1605630570617}
+{"area":"guangdong","uid":"463","itemid":19,"npgid":13,"evid":"clickItem","os":"ios","pgid":4,"appid":"data2020","mid":"mid_396","type":"event","ts":1605625311202}
+{"area":"guangdong","uid":"463","itemid":37,"npgid":30,"evid":"addComment","os":"ios","pgid":41,"appid":"data2020","mid":"mid_396","type":"event","ts":1605624299428}
+{"area":"guangdong","uid":"463","itemid":30,"npgid":49,"evid":"addComment","os":"ios","pgid":17,"appid":"data2020","mid":"mid_396","type":"event","ts":1605616533783}
+{"area":"guangdong","uid":"463","itemid":11,"npgid":45,"evid":"addCart","os":"ios","pgid":18,"appid":"data2020","mid":"mid_396","type":"event","ts":1605621559545}
+{"area":"guangdong","uid":"463","itemid":27,"npgid":6,"evid":"addCart","os":"ios","pgid":30,"appid":"data2020","mid":"mid_396","type":"event","ts":1605620239964}
+{"area":"guangdong","uid":"389","os":"andriod","ch":"website","appid":"data2020","mid":"mid_54","type":"startup","vs":"1.1.3","ts":1605629838000}
+{"area":"guangdong","uid":"389","itemid":8,"npgid":26,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_54","type":"event","ts":1605624396702}
+{"area":"guangdong","uid":"389","itemid":16,"npgid":22,"evid":"addComment","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_54","type":"event","ts":1605631138600}
+{"area":"guangdong","uid":"389","itemid":46,"npgid":37,"evid":"addCart","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_54","type":"event","ts":1605615466640}
+{"area":"guangdong","uid":"389","itemid":19,"npgid":17,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_54","type":"event","ts":1605628581949}
+{"area":"guangdong","uid":"389","itemid":28,"npgid":24,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_54","type":"event","ts":1605623932746}
+{"area":"guangdong","uid":"389","itemid":26,"npgid":1,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_54","type":"event","ts":1605626873455}
+{"area":"guangdong","uid":"389","itemid":18,"npgid":5,"evid":"addComment","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_54","type":"event","ts":1605621265526}
+{"area":"guangdong","uid":"389","itemid":36,"npgid":46,"evid":"clickItem","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_54","type":"event","ts":1605621327123}
+{"area":"guangdong","uid":"389","itemid":19,"npgid":28,"evid":"addFavor","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_54","type":"event","ts":1605615224389}
+{"area":"guangdong","uid":"389","itemid":11,"npgid":33,"evid":"addFavor","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_54","type":"event","ts":1605627514571}
+{"area":"guangdong","uid":"389","itemid":12,"npgid":12,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_54","type":"event","ts":1605615763086}
+{"area":"guangdong","uid":"389","itemid":37,"npgid":18,"evid":"clickItem","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_54","type":"event","ts":1605627544971}
+{"area":"guangdong","uid":"389","itemid":45,"npgid":14,"evid":"addCart","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_54","type":"event","ts":1605630508136}
+{"area":"guangdong","uid":"389","itemid":5,"npgid":25,"evid":"addCart","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_54","type":"event","ts":1605628257595}
+{"area":"guangdong","uid":"208","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_152","type":"startup","vs":"1.1.3","ts":1605618387907}
+{"area":"hebei","uid":"342","os":"andriod","ch":"360","appid":"data2020","mid":"mid_185","type":"startup","vs":"1.1.3","ts":1605616379007}
+{"area":"hebei","uid":"342","itemid":17,"npgid":39,"evid":"addFavor","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_185","type":"event","ts":1605623386583}
+{"area":"hebei","uid":"342","itemid":7,"npgid":48,"evid":"addComment","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_185","type":"event","ts":1605626589654}
+{"area":"hebei","uid":"342","itemid":27,"npgid":16,"evid":"addCart","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_185","type":"event","ts":1605623490983}
+{"area":"tianjin","uid":"286","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_408","type":"startup","vs":"1.1.3","ts":1605621031827}
+{"area":"guangdong","uid":"386","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_44","type":"startup","vs":"1.2.0","ts":1605615407849}
+{"area":"guangdong","uid":"386","itemid":39,"npgid":20,"evid":"clickItem","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_44","type":"event","ts":1605627729149}
+{"area":"guangdong","uid":"386","itemid":43,"npgid":50,"evid":"addCart","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_44","type":"event","ts":1605614278688}
+{"area":"guangdong","uid":"386","itemid":46,"npgid":4,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_44","type":"event","ts":1605622947160}
+{"area":"guangdong","uid":"386","itemid":24,"npgid":34,"evid":"clickItem","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_44","type":"event","ts":1605618320945}
+{"area":"guangdong","uid":"386","itemid":48,"npgid":47,"evid":"addComment","os":"andriod","pgid":47,"appid":"data2020","mid":"mid_44","type":"event","ts":1605615271903}
+{"area":"guangdong","uid":"386","itemid":23,"npgid":27,"evid":"clickItem","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_44","type":"event","ts":1605629682001}
+{"area":"guangdong","uid":"386","itemid":48,"npgid":1,"evid":"clickItem","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_44","type":"event","ts":1605628319810}
+{"area":"guangdong","uid":"386","itemid":30,"npgid":37,"evid":"addComment","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_44","type":"event","ts":1605627857095}
+{"area":"guangdong","uid":"405","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_61","type":"startup","vs":"1.2.0","ts":1605625523137}
+{"area":"guangdong","uid":"405","itemid":1,"npgid":47,"evid":"clickItem","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_61","type":"event","ts":1605623083262}
+{"area":"shanghai","uid":"332","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_10","type":"startup","vs":"1.1.3","ts":1605622628698}
+{"area":"shanghai","uid":"332","itemid":43,"npgid":18,"evid":"addCart","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_10","type":"event","ts":1605629673713}
+{"area":"shanghai","uid":"332","itemid":6,"npgid":35,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_10","type":"event","ts":1605623275562}
+{"area":"shanghai","uid":"332","itemid":33,"npgid":17,"evid":"addFavor","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_10","type":"event","ts":1605622200598}
+{"area":"shanghai","uid":"332","itemid":26,"npgid":5,"evid":"addCart","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_10","type":"event","ts":1605615143871}
+{"area":"shanghai","uid":"332","itemid":2,"npgid":10,"evid":"clickItem","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_10","type":"event","ts":1605629151638}
+{"area":"shanghai","uid":"332","itemid":45,"npgid":47,"evid":"addComment","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_10","type":"event","ts":1605620658259}
+{"area":"shanghai","uid":"332","itemid":8,"npgid":46,"evid":"clickItem","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_10","type":"event","ts":1605622537128}
+{"area":"shanghai","uid":"332","itemid":17,"npgid":31,"evid":"addComment","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_10","type":"event","ts":1605629776436}
+{"area":"shanghai","uid":"332","itemid":29,"npgid":15,"evid":"addComment","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_10","type":"event","ts":1605624815079}
+{"area":"shanghai","uid":"332","itemid":18,"npgid":35,"evid":"clickItem","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_10","type":"event","ts":1605617318508}
+{"area":"shan3xi","uid":"349","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_346","type":"startup","vs":"1.1.3","ts":1605626653430}
+{"area":"shanghai","uid":"388","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_178","type":"startup","vs":"1.1.3","ts":1605619316800}
+{"area":"shanghai","uid":"388","itemid":6,"npgid":20,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_178","type":"event","ts":1605618315170}
+{"area":"shanghai","uid":"266","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_147","type":"startup","vs":"1.2.0","ts":1605623000662}
+{"area":"shanghai","uid":"266","itemid":10,"npgid":3,"evid":"addFavor","os":"ios","pgid":4,"appid":"data2020","mid":"mid_147","type":"event","ts":1605619974511}
+{"area":"shanghai","uid":"266","itemid":11,"npgid":23,"evid":"addFavor","os":"ios","pgid":11,"appid":"data2020","mid":"mid_147","type":"event","ts":1605626102529}
+{"area":"shanghai","uid":"266","itemid":33,"npgid":20,"evid":"addComment","os":"ios","pgid":39,"appid":"data2020","mid":"mid_147","type":"event","ts":1605619687508}
+{"area":"shanghai","uid":"266","itemid":33,"npgid":46,"evid":"addFavor","os":"ios","pgid":19,"appid":"data2020","mid":"mid_147","type":"event","ts":1605629731749}
+{"area":"shanghai","uid":"266","itemid":5,"npgid":27,"evid":"clickItem","os":"ios","pgid":45,"appid":"data2020","mid":"mid_147","type":"event","ts":1605615923673}
+{"area":"shanghai","uid":"266","itemid":32,"npgid":9,"evid":"clickItem","os":"ios","pgid":2,"appid":"data2020","mid":"mid_147","type":"event","ts":1605625604362}
+{"area":"shanghai","uid":"266","itemid":47,"npgid":46,"evid":"addComment","os":"ios","pgid":6,"appid":"data2020","mid":"mid_147","type":"event","ts":1605620114100}
+{"area":"heilongjiang","uid":"14","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_1","type":"startup","vs":"1.2.0","ts":1605616879472}
+{"area":"heilongjiang","uid":"14","itemid":6,"npgid":15,"evid":"addComment","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_1","type":"event","ts":1605626924564}
+{"area":"beijing","uid":"288","os":"andriod","ch":"360","appid":"data2020","mid":"mid_458","type":"startup","vs":"1.2.0","ts":1605627191213}
+{"area":"beijing","uid":"288","itemid":8,"npgid":20,"evid":"addComment","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_458","type":"event","ts":1605621184653}
+{"area":"beijing","uid":"288","itemid":13,"npgid":7,"evid":"clickItem","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_458","type":"event","ts":1605626611205}
+{"area":"beijing","uid":"288","itemid":7,"npgid":14,"evid":"clickItem","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_458","type":"event","ts":1605619355484}
+{"area":"shan1xi","uid":"392","os":"andriod","ch":"website","appid":"data2020","mid":"mid_434","type":"startup","vs":"1.2.0","ts":1605630798774}
+{"area":"shan1xi","uid":"392","itemid":48,"npgid":5,"evid":"addComment","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_434","type":"event","ts":1605628022312}
+{"area":"shan1xi","uid":"392","itemid":48,"npgid":49,"evid":"clickItem","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_434","type":"event","ts":1605622121669}
+{"area":"guangdong","uid":"11","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_402","type":"startup","vs":"1.2.0","ts":1605623124623}
+{"area":"guangdong","uid":"11","itemid":31,"npgid":44,"evid":"addComment","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_402","type":"event","ts":1605624764776}
+{"area":"guangdong","uid":"11","itemid":36,"npgid":36,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_402","type":"event","ts":1605630603640}
+{"area":"guangdong","uid":"11","itemid":20,"npgid":20,"evid":"clickItem","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_402","type":"event","ts":1605624084669}
+{"area":"guangdong","uid":"11","itemid":8,"npgid":9,"evid":"addCart","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_402","type":"event","ts":1605629648226}
+{"area":"guangdong","uid":"11","itemid":33,"npgid":19,"evid":"addComment","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_402","type":"event","ts":1605621353138}
+{"area":"guangdong","uid":"11","itemid":4,"npgid":10,"evid":"addCart","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_402","type":"event","ts":1605619783757}
+{"area":"guangdong","uid":"11","itemid":18,"npgid":31,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_402","type":"event","ts":1605625534673}
+{"area":"guangdong","uid":"11","itemid":41,"npgid":42,"evid":"addComment","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_402","type":"event","ts":1605616133252}
+{"area":"guangdong","uid":"11","itemid":22,"npgid":8,"evid":"clickItem","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_402","type":"event","ts":1605628810258}
+{"area":"guangdong","uid":"11","itemid":2,"npgid":40,"evid":"addCart","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_402","type":"event","ts":1605628406328}
+{"area":"guangdong","uid":"11","itemid":30,"npgid":9,"evid":"addComment","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_402","type":"event","ts":1605623624068}
+{"area":"guangdong","uid":"11","itemid":25,"npgid":39,"evid":"addCart","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_402","type":"event","ts":1605621222352}
+{"area":"guangdong","uid":"11","itemid":9,"npgid":33,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_402","type":"event","ts":1605617122893}
+{"area":"guangdong","uid":"11","itemid":39,"npgid":20,"evid":"clickItem","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_402","type":"event","ts":1605631082101}
+{"area":"guangdong","uid":"11","itemid":22,"npgid":30,"evid":"addComment","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_402","type":"event","ts":1605619458125}
+{"area":"guangdong","uid":"11","itemid":43,"npgid":27,"evid":"addFavor","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_402","type":"event","ts":1605623736766}
+{"area":"guangdong","uid":"11","itemid":29,"npgid":49,"evid":"addFavor","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_402","type":"event","ts":1605621293547}
+{"area":"guangdong","uid":"11","itemid":22,"npgid":32,"evid":"addCart","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_402","type":"event","ts":1605628735636}
+{"area":"guangdong","uid":"11","itemid":6,"npgid":49,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_402","type":"event","ts":1605619217029}
+{"area":"guangdong","uid":"11","itemid":5,"npgid":1,"evid":"addCart","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_402","type":"event","ts":1605628145516}
+{"area":"guangdong","uid":"11","itemid":15,"npgid":13,"evid":"addCart","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_402","type":"event","ts":1605623727681}
+{"area":"guangdong","uid":"11","itemid":8,"npgid":16,"evid":"addComment","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_402","type":"event","ts":1605616411530}
+{"area":"guangdong","uid":"11","itemid":36,"npgid":40,"evid":"clickItem","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_402","type":"event","ts":1605620330794}
+{"area":"sichuan","uid":"300","os":"andriod","ch":"360","appid":"data2020","mid":"mid_138","type":"startup","vs":"1.1.3","ts":1605631271103}
+{"area":"sichuan","uid":"300","itemid":12,"npgid":21,"evid":"clickItem","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_138","type":"event","ts":1605630481535}
+{"area":"sichuan","uid":"300","itemid":21,"npgid":3,"evid":"addComment","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_138","type":"event","ts":1605631069517}
+{"area":"sichuan","uid":"300","itemid":12,"npgid":15,"evid":"addCart","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_138","type":"event","ts":1605619989139}
+{"area":"sichuan","uid":"300","itemid":32,"npgid":24,"evid":"addCart","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_138","type":"event","ts":1605619336107}
+{"area":"sichuan","uid":"300","itemid":30,"npgid":12,"evid":"addComment","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_138","type":"event","ts":1605624795641}
+{"area":"sichuan","uid":"300","itemid":32,"npgid":5,"evid":"addComment","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_138","type":"event","ts":1605630307157}
+{"area":"sichuan","uid":"300","itemid":7,"npgid":13,"evid":"addComment","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_138","type":"event","ts":1605629211759}
+{"area":"hebei","uid":"322","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_476","type":"startup","vs":"1.1.3","ts":1605627552381}
+{"area":"hebei","uid":"322","itemid":37,"npgid":13,"evid":"clickItem","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_476","type":"event","ts":1605627068012}
+{"area":"hebei","uid":"322","itemid":9,"npgid":33,"evid":"clickItem","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_476","type":"event","ts":1605630445947}
+{"area":"hebei","uid":"322","itemid":11,"npgid":47,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_476","type":"event","ts":1605615072353}
+{"area":"hebei","uid":"322","itemid":12,"npgid":50,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_476","type":"event","ts":1605622264304}
+{"area":"hebei","uid":"322","itemid":42,"npgid":41,"evid":"addComment","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_476","type":"event","ts":1605627033162}
+{"area":"hebei","uid":"322","itemid":26,"npgid":40,"evid":"addCart","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_476","type":"event","ts":1605616422243}
+{"area":"hebei","uid":"322","itemid":7,"npgid":22,"evid":"addComment","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_476","type":"event","ts":1605626820576}
+{"area":"hebei","uid":"322","itemid":18,"npgid":11,"evid":"addFavor","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_476","type":"event","ts":1605625251690}
+{"area":"hebei","uid":"322","itemid":29,"npgid":48,"evid":"clickItem","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_476","type":"event","ts":1605615293906}
+{"area":"hebei","uid":"322","itemid":42,"npgid":28,"evid":"addComment","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_476","type":"event","ts":1605630855539}
+{"area":"hebei","uid":"322","itemid":38,"npgid":49,"evid":"clickItem","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_476","type":"event","ts":1605625692397}
+{"area":"hebei","uid":"322","itemid":45,"npgid":32,"evid":"clickItem","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_476","type":"event","ts":1605617085318}
+{"area":"hebei","uid":"322","itemid":20,"npgid":20,"evid":"clickItem","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_476","type":"event","ts":1605618491526}
+{"area":"hebei","uid":"322","itemid":32,"npgid":24,"evid":"clickItem","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_476","type":"event","ts":1605616299545}
+{"area":"hebei","uid":"322","itemid":35,"npgid":6,"evid":"clickItem","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_476","type":"event","ts":1605621653498}
+{"area":"hebei","uid":"322","itemid":34,"npgid":48,"evid":"addComment","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_476","type":"event","ts":1605623642279}
+{"area":"hebei","uid":"322","itemid":14,"npgid":46,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_476","type":"event","ts":1605618999449}
+{"area":"hebei","uid":"322","itemid":45,"npgid":27,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_476","type":"event","ts":1605624235976}
+{"area":"shanghai","uid":"160","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_99","type":"startup","vs":"1.2.0","ts":1605620344666}
+{"area":"hebei","uid":"469","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_222","type":"startup","vs":"1.1.3","ts":1605628101856}
+{"area":"hebei","uid":"469","itemid":4,"npgid":13,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_222","type":"event","ts":1605630083174}
+{"area":"hebei","uid":"469","itemid":32,"npgid":39,"evid":"addComment","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_222","type":"event","ts":1605624127517}
+{"area":"shan1xi","uid":"492","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_230","type":"startup","vs":"1.1.3","ts":1605618781522}
+{"area":"shan1xi","uid":"492","itemid":7,"npgid":21,"evid":"clickItem","os":"ios","pgid":29,"appid":"data2020","mid":"mid_230","type":"event","ts":1605622243859}
+{"area":"shan1xi","uid":"492","itemid":20,"npgid":8,"evid":"addCart","os":"ios","pgid":49,"appid":"data2020","mid":"mid_230","type":"event","ts":1605621141410}
+{"area":"shan1xi","uid":"492","itemid":44,"npgid":3,"evid":"addComment","os":"ios","pgid":45,"appid":"data2020","mid":"mid_230","type":"event","ts":1605628609814}
+{"area":"shan1xi","uid":"492","itemid":37,"npgid":22,"evid":"clickItem","os":"ios","pgid":39,"appid":"data2020","mid":"mid_230","type":"event","ts":1605622166076}
+{"area":"shan1xi","uid":"492","itemid":16,"npgid":16,"evid":"addComment","os":"ios","pgid":43,"appid":"data2020","mid":"mid_230","type":"event","ts":1605614169378}
+{"area":"shan1xi","uid":"11","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_170","type":"startup","vs":"1.1.2","ts":1605629273516}
+{"area":"guangdong","uid":"456","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_392","type":"startup","vs":"1.2.0","ts":1605624919636}
+{"area":"guangdong","uid":"456","itemid":23,"npgid":19,"evid":"addComment","os":"ios","pgid":21,"appid":"data2020","mid":"mid_392","type":"event","ts":1605617663608}
+{"area":"guangdong","uid":"456","itemid":45,"npgid":36,"evid":"addComment","os":"ios","pgid":9,"appid":"data2020","mid":"mid_392","type":"event","ts":1605615821769}
+{"area":"guangdong","uid":"456","itemid":29,"npgid":36,"evid":"addComment","os":"ios","pgid":36,"appid":"data2020","mid":"mid_392","type":"event","ts":1605615949318}
+{"area":"guangdong","uid":"456","itemid":14,"npgid":14,"evid":"addComment","os":"ios","pgid":28,"appid":"data2020","mid":"mid_392","type":"event","ts":1605629402099}
+{"area":"guangdong","uid":"456","itemid":11,"npgid":44,"evid":"clickItem","os":"ios","pgid":4,"appid":"data2020","mid":"mid_392","type":"event","ts":1605631105997}
+{"area":"guangdong","uid":"456","itemid":21,"npgid":43,"evid":"clickItem","os":"ios","pgid":48,"appid":"data2020","mid":"mid_392","type":"event","ts":1605622043395}
+{"area":"guangdong","uid":"109","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_340","type":"startup","vs":"1.1.1","ts":1605615354632}
+{"area":"guangdong","uid":"109","itemid":38,"npgid":8,"evid":"clickItem","os":"ios","pgid":39,"appid":"data2020","mid":"mid_340","type":"event","ts":1605616912500}
+{"area":"guangdong","uid":"109","itemid":4,"npgid":37,"evid":"clickItem","os":"ios","pgid":29,"appid":"data2020","mid":"mid_340","type":"event","ts":1605617478574}
+{"area":"guangdong","uid":"109","itemid":40,"npgid":43,"evid":"addComment","os":"ios","pgid":13,"appid":"data2020","mid":"mid_340","type":"event","ts":1605616133956}
+{"area":"guangdong","uid":"109","itemid":31,"npgid":33,"evid":"addComment","os":"ios","pgid":6,"appid":"data2020","mid":"mid_340","type":"event","ts":1605629083292}
+{"area":"guangdong","uid":"109","itemid":26,"npgid":23,"evid":"addCart","os":"ios","pgid":20,"appid":"data2020","mid":"mid_340","type":"event","ts":1605619682244}
+{"area":"guangdong","uid":"109","itemid":19,"npgid":39,"evid":"clickItem","os":"ios","pgid":40,"appid":"data2020","mid":"mid_340","type":"event","ts":1605631129379}
+{"area":"guangdong","uid":"109","itemid":42,"npgid":39,"evid":"clickItem","os":"ios","pgid":12,"appid":"data2020","mid":"mid_340","type":"event","ts":1605625413186}
+{"area":"tianjin","uid":"145","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_29","type":"startup","vs":"1.2.0","ts":1605622476632}
+{"area":"tianjin","uid":"145","itemid":42,"npgid":47,"evid":"addFavor","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_29","type":"event","ts":1605617710310}
+{"area":"tianjin","uid":"145","itemid":19,"npgid":4,"evid":"clickItem","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_29","type":"event","ts":1605628641724}
+{"area":"tianjin","uid":"145","itemid":38,"npgid":41,"evid":"clickItem","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_29","type":"event","ts":1605624694485}
+{"area":"tianjin","uid":"145","itemid":49,"npgid":2,"evid":"addComment","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_29","type":"event","ts":1605626601969}
+{"area":"tianjin","uid":"145","itemid":16,"npgid":21,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_29","type":"event","ts":1605622929749}
+{"area":"tianjin","uid":"145","itemid":27,"npgid":15,"evid":"addCart","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_29","type":"event","ts":1605628800637}
+{"area":"beijing","uid":"394","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_310","type":"startup","vs":"1.2.0","ts":1605620988234}
+{"area":"beijing","uid":"394","itemid":40,"npgid":40,"evid":"clickItem","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_310","type":"event","ts":1605618509910}
+{"area":"beijing","uid":"394","itemid":5,"npgid":10,"evid":"addCart","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_310","type":"event","ts":1605628153010}
+{"area":"beijing","uid":"394","itemid":27,"npgid":9,"evid":"addComment","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_310","type":"event","ts":1605624270654}
+{"area":"beijing","uid":"394","itemid":9,"npgid":43,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_310","type":"event","ts":1605631200314}
+{"area":"guangdong","uid":"333","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_363","type":"startup","vs":"1.2.0","ts":1605627777555}
+{"area":"guangdong","uid":"333","itemid":24,"npgid":31,"evid":"clickItem","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_363","type":"event","ts":1605626162951}
+{"area":"guangdong","uid":"333","itemid":35,"npgid":38,"evid":"clickItem","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_363","type":"event","ts":1605622012263}
+{"area":"guangdong","uid":"333","itemid":21,"npgid":14,"evid":"addComment","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_363","type":"event","ts":1605630472630}
+{"area":"guangdong","uid":"333","itemid":32,"npgid":39,"evid":"clickItem","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_363","type":"event","ts":1605631074153}
+{"area":"guangdong","uid":"333","itemid":31,"npgid":21,"evid":"clickItem","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_363","type":"event","ts":1605617691230}
+{"area":"guangdong","uid":"333","itemid":19,"npgid":43,"evid":"clickItem","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_363","type":"event","ts":1605629750139}
+{"area":"guangdong","uid":"333","itemid":28,"npgid":43,"evid":"clickItem","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_363","type":"event","ts":1605617701856}
+{"area":"guangdong","uid":"333","itemid":14,"npgid":42,"evid":"clickItem","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_363","type":"event","ts":1605620686939}
+{"area":"guangdong","uid":"333","itemid":47,"npgid":5,"evid":"addCart","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_363","type":"event","ts":1605619600877}
+{"area":"guangdong","uid":"333","itemid":40,"npgid":19,"evid":"addCart","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_363","type":"event","ts":1605620801843}
+{"area":"guangdong","uid":"333","itemid":16,"npgid":8,"evid":"addCart","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_363","type":"event","ts":1605616437860}
+{"area":"guangdong","uid":"333","itemid":21,"npgid":8,"evid":"addCart","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_363","type":"event","ts":1605621121158}
+{"area":"guangdong","uid":"333","itemid":41,"npgid":18,"evid":"clickItem","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_363","type":"event","ts":1605618524298}
+{"area":"guangdong","uid":"333","itemid":18,"npgid":24,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_363","type":"event","ts":1605628603011}
+{"area":"guangdong","uid":"333","itemid":33,"npgid":48,"evid":"clickItem","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_363","type":"event","ts":1605630916892}
+{"area":"guangdong","uid":"333","itemid":15,"npgid":26,"evid":"addFavor","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_363","type":"event","ts":1605630822820}
+{"area":"guangdong","uid":"333","itemid":15,"npgid":32,"evid":"clickItem","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_363","type":"event","ts":1605615563268}
+{"area":"guangdong","uid":"333","itemid":21,"npgid":25,"evid":"clickItem","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_363","type":"event","ts":1605627815038}
+{"area":"shanghai","uid":"75","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_115","type":"startup","vs":"1.2.0","ts":1605625165371}
+{"area":"shanghai","uid":"75","itemid":0,"npgid":5,"evid":"clickItem","os":"ios","pgid":21,"appid":"data2020","mid":"mid_115","type":"event","ts":1605615786416}
+{"area":"shanghai","uid":"75","itemid":25,"npgid":1,"evid":"addCart","os":"ios","pgid":24,"appid":"data2020","mid":"mid_115","type":"event","ts":1605625917723}
+{"area":"tianjin","uid":"157","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_285","type":"startup","vs":"1.2.0","ts":1605614060081}
+{"area":"shandong","uid":"493","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_70","type":"startup","vs":"1.1.2","ts":1605615114011}
+{"area":"guangdong","uid":"372","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_476","type":"startup","vs":"1.1.3","ts":1605624275383}
+{"area":"guangdong","uid":"372","itemid":8,"npgid":6,"evid":"clickItem","os":"ios","pgid":42,"appid":"data2020","mid":"mid_476","type":"event","ts":1605622810677}
+{"area":"guangdong","uid":"372","itemid":20,"npgid":22,"evid":"clickItem","os":"ios","pgid":11,"appid":"data2020","mid":"mid_476","type":"event","ts":1605626109348}
+{"area":"beijing","uid":"2","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_418","type":"startup","vs":"1.2.0","ts":1605627739445}
+{"area":"beijing","uid":"2","itemid":0,"npgid":41,"evid":"addComment","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_418","type":"event","ts":1605614172397}
+{"area":"beijing","uid":"2","itemid":30,"npgid":26,"evid":"clickItem","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_418","type":"event","ts":1605627846639}
+{"area":"beijing","uid":"2","itemid":34,"npgid":29,"evid":"addComment","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_418","type":"event","ts":1605625107398}
+{"area":"beijing","uid":"2","itemid":9,"npgid":32,"evid":"addCart","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_418","type":"event","ts":1605630040805}
+{"area":"beijing","uid":"2","itemid":23,"npgid":3,"evid":"addFavor","os":"andriod","pgid":14,"appid":"data2020","mid":"mid_418","type":"event","ts":1605620338622}
+{"area":"beijing","uid":"2","itemid":46,"npgid":26,"evid":"addComment","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_418","type":"event","ts":1605615386348}
+{"area":"beijing","uid":"2","itemid":14,"npgid":41,"evid":"clickItem","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_418","type":"event","ts":1605617816876}
+{"area":"beijing","uid":"2","itemid":24,"npgid":13,"evid":"addFavor","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_418","type":"event","ts":1605616089036}
+{"area":"beijing","uid":"2","itemid":43,"npgid":3,"evid":"addCart","os":"andriod","pgid":12,"appid":"data2020","mid":"mid_418","type":"event","ts":1605625770253}
+{"area":"beijing","uid":"2","itemid":24,"npgid":10,"evid":"clickItem","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_418","type":"event","ts":1605623914367}
+{"area":"beijing","uid":"2","itemid":14,"npgid":4,"evid":"addFavor","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_418","type":"event","ts":1605627468368}
+{"area":"beijing","uid":"2","itemid":6,"npgid":22,"evid":"addCart","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_418","type":"event","ts":1605623207197}
+{"area":"beijing","uid":"2","itemid":27,"npgid":20,"evid":"addComment","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_418","type":"event","ts":1605629482581}
+{"area":"beijing","uid":"2","itemid":39,"npgid":39,"evid":"addComment","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_418","type":"event","ts":1605625362492}
+{"area":"beijing","uid":"2","itemid":30,"npgid":18,"evid":"clickItem","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_418","type":"event","ts":1605627869165}
+{"area":"beijing","uid":"2","itemid":34,"npgid":42,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_418","type":"event","ts":1605620732994}
+{"area":"beijing","uid":"2","itemid":49,"npgid":39,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_418","type":"event","ts":1605620075482}
+{"area":"beijing","uid":"2","itemid":6,"npgid":41,"evid":"addComment","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_418","type":"event","ts":1605620413359}
+{"area":"guangdong","uid":"457","os":"andriod","ch":"360","appid":"data2020","mid":"mid_18","type":"startup","vs":"1.2.0","ts":1605614279097}
+{"area":"guangdong","uid":"457","itemid":3,"npgid":43,"evid":"addComment","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_18","type":"event","ts":1605627246969}
+{"area":"guangdong","uid":"457","itemid":0,"npgid":10,"evid":"addComment","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_18","type":"event","ts":1605616895005}
+{"area":"guangdong","uid":"422","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_146","type":"startup","vs":"1.1.3","ts":1605619012730}
+{"area":"guangdong","uid":"422","itemid":44,"npgid":6,"evid":"addCart","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_146","type":"event","ts":1605614361577}
+{"area":"guangdong","uid":"422","itemid":29,"npgid":8,"evid":"addComment","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_146","type":"event","ts":1605619040262}
+{"area":"guangdong","uid":"422","itemid":33,"npgid":40,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_146","type":"event","ts":1605629550362}
+{"area":"tianjin","uid":"313","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_15","type":"startup","vs":"1.2.0","ts":1605626009590}
+{"area":"shan3xi","uid":"166","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_484","type":"startup","vs":"1.1.2","ts":1605630064731}
+{"area":"shan3xi","uid":"166","itemid":11,"npgid":18,"evid":"addCart","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_484","type":"event","ts":1605618936745}
+{"area":"sichuan","uid":"342","os":"andriod","ch":"website","appid":"data2020","mid":"mid_492","type":"startup","vs":"1.1.3","ts":1605617165006}
+{"area":"sichuan","uid":"342","itemid":0,"npgid":23,"evid":"addFavor","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_492","type":"event","ts":1605617715243}
+{"area":"sichuan","uid":"342","itemid":36,"npgid":25,"evid":"clickItem","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_492","type":"event","ts":1605622464215}
+{"area":"sichuan","uid":"342","itemid":38,"npgid":36,"evid":"addFavor","os":"andriod","pgid":8,"appid":"data2020","mid":"mid_492","type":"event","ts":1605626453811}
+{"area":"sichuan","uid":"342","itemid":42,"npgid":33,"evid":"addComment","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_492","type":"event","ts":1605628860760}
+{"area":"sichuan","uid":"342","itemid":11,"npgid":33,"evid":"clickItem","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_492","type":"event","ts":1605623703484}
+{"area":"sichuan","uid":"342","itemid":16,"npgid":39,"evid":"addComment","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_492","type":"event","ts":1605622898666}
+{"area":"sichuan","uid":"342","itemid":44,"npgid":29,"evid":"clickItem","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_492","type":"event","ts":1605615175946}
+{"area":"sichuan","uid":"342","itemid":40,"npgid":39,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_492","type":"event","ts":1605629576756}
+{"area":"sichuan","uid":"342","itemid":24,"npgid":44,"evid":"clickItem","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_492","type":"event","ts":1605617975854}
+{"area":"sichuan","uid":"342","itemid":6,"npgid":2,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_492","type":"event","ts":1605629586252}
+{"area":"heilongjiang","uid":"422","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_14","type":"startup","vs":"1.2.0","ts":1605615091931}
+{"area":"shanghai","uid":"387","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_467","type":"startup","vs":"1.2.0","ts":1605622069973}
+{"area":"shanghai","uid":"387","itemid":41,"npgid":33,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_467","type":"event","ts":1605621225630}
+{"area":"shanghai","uid":"387","itemid":41,"npgid":43,"evid":"addComment","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_467","type":"event","ts":1605613876796}
+{"area":"shanghai","uid":"387","itemid":15,"npgid":33,"evid":"clickItem","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_467","type":"event","ts":1605613891953}
+{"area":"shanghai","uid":"387","itemid":23,"npgid":42,"evid":"clickItem","os":"andriod","pgid":12,"appid":"data2020","mid":"mid_467","type":"event","ts":1605615267526}
+{"area":"shanghai","uid":"387","itemid":36,"npgid":40,"evid":"addFavor","os":"andriod","pgid":8,"appid":"data2020","mid":"mid_467","type":"event","ts":1605625847300}
+{"area":"shanghai","uid":"387","itemid":10,"npgid":13,"evid":"clickItem","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_467","type":"event","ts":1605620332274}
+{"area":"shanghai","uid":"387","itemid":41,"npgid":42,"evid":"addCart","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_467","type":"event","ts":1605614487241}
+{"area":"tianjin","uid":"374","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_22","type":"startup","vs":"1.1.2","ts":1605617642744}
+{"area":"guangdong","uid":"162","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_477","type":"startup","vs":"1.2.0","ts":1605615775473}
+{"area":"beijing","uid":"267","os":"andriod","ch":"360","appid":"data2020","mid":"mid_466","type":"startup","vs":"1.1.2","ts":1605626157476}
+{"area":"beijing","uid":"267","itemid":17,"npgid":16,"evid":"clickItem","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_466","type":"event","ts":1605620830713}
+{"area":"beijing","uid":"267","itemid":14,"npgid":4,"evid":"addComment","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_466","type":"event","ts":1605613915514}
+{"area":"beijing","uid":"267","itemid":44,"npgid":30,"evid":"clickItem","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_466","type":"event","ts":1605624269301}
+{"area":"beijing","uid":"267","itemid":45,"npgid":3,"evid":"addComment","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_466","type":"event","ts":1605618447225}
+{"area":"beijing","uid":"267","itemid":25,"npgid":31,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_466","type":"event","ts":1605615652023}
+{"area":"hebei","uid":"81","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_71","type":"startup","vs":"1.2.0","ts":1605616967090}
+{"area":"shanghai","uid":"361","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_185","type":"startup","vs":"1.2.0","ts":1605629395522}
+{"area":"shanghai","uid":"361","itemid":4,"npgid":2,"evid":"addCart","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_185","type":"event","ts":1605629656753}
+{"area":"shanghai","uid":"361","itemid":3,"npgid":44,"evid":"addCart","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_185","type":"event","ts":1605617481807}
+{"area":"shanghai","uid":"361","itemid":3,"npgid":11,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_185","type":"event","ts":1605626275338}
+{"area":"shanghai","uid":"361","itemid":7,"npgid":36,"evid":"addFavor","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_185","type":"event","ts":1605622782088}
+{"area":"shanghai","uid":"361","itemid":46,"npgid":29,"evid":"clickItem","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_185","type":"event","ts":1605622347695}
+{"area":"shanghai","uid":"361","itemid":31,"npgid":15,"evid":"addCart","os":"andriod","pgid":14,"appid":"data2020","mid":"mid_185","type":"event","ts":1605618265490}
+{"area":"shanghai","uid":"361","itemid":28,"npgid":31,"evid":"addCart","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_185","type":"event","ts":1605630256978}
+{"area":"shanghai","uid":"361","itemid":32,"npgid":33,"evid":"clickItem","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_185","type":"event","ts":1605627902204}
+{"area":"guangdong","uid":"2","os":"andriod","ch":"website","appid":"data2020","mid":"mid_151","type":"startup","vs":"1.2.0","ts":1605623718276}
+{"area":"guangdong","uid":"2","itemid":26,"npgid":49,"evid":"addComment","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_151","type":"event","ts":1605616877152}
+{"area":"guangdong","uid":"2","itemid":13,"npgid":6,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_151","type":"event","ts":1605629188030}
+{"area":"guangdong","uid":"2","itemid":17,"npgid":34,"evid":"addCart","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_151","type":"event","ts":1605628815969}
+{"area":"beijing","uid":"281","os":"andriod","ch":"360","appid":"data2020","mid":"mid_345","type":"startup","vs":"1.2.0","ts":1605626591466}
+{"area":"beijing","uid":"281","itemid":20,"npgid":15,"evid":"addCart","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_345","type":"event","ts":1605623459431}
+{"area":"beijing","uid":"281","itemid":26,"npgid":9,"evid":"addComment","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_345","type":"event","ts":1605613489625}
+{"area":"beijing","uid":"281","itemid":8,"npgid":24,"evid":"addComment","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_345","type":"event","ts":1605626741207}
+{"area":"beijing","uid":"281","itemid":8,"npgid":43,"evid":"clickItem","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_345","type":"event","ts":1605627561458}
+{"area":"beijing","uid":"281","itemid":28,"npgid":8,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_345","type":"event","ts":1605630125809}
+{"area":"beijing","uid":"281","itemid":5,"npgid":43,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_345","type":"event","ts":1605631033130}
+{"area":"sichuan","uid":"75","os":"andriod","ch":"360","appid":"data2020","mid":"mid_448","type":"startup","vs":"1.2.0","ts":1605630502443}
+{"area":"sichuan","uid":"75","itemid":39,"npgid":43,"evid":"addFavor","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_448","type":"event","ts":1605620696146}
+{"area":"sichuan","uid":"75","itemid":19,"npgid":44,"evid":"addFavor","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_448","type":"event","ts":1605620857642}
+{"area":"guangdong","uid":"426","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_368","type":"startup","vs":"1.1.2","ts":1605622009474}
+{"area":"guangdong","uid":"426","itemid":14,"npgid":36,"evid":"addCart","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_368","type":"event","ts":1605626176615}
+{"area":"guangdong","uid":"426","itemid":16,"npgid":40,"evid":"clickItem","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_368","type":"event","ts":1605621190046}
+{"area":"guangdong","uid":"426","itemid":37,"npgid":44,"evid":"addComment","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_368","type":"event","ts":1605620584644}
+{"area":"guangdong","uid":"451","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_449","type":"startup","vs":"1.2.0","ts":1605614369547}
+{"area":"guangdong","uid":"451","itemid":24,"npgid":47,"evid":"addComment","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_449","type":"event","ts":1605623235144}
+{"area":"guangdong","uid":"451","itemid":22,"npgid":49,"evid":"addFavor","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_449","type":"event","ts":1605618125874}
+{"area":"shanghai","uid":"249","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_6","type":"startup","vs":"1.2.0","ts":1605616011532}
+{"area":"shanghai","uid":"249","itemid":43,"npgid":46,"evid":"addFavor","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_6","type":"event","ts":1605630574134}
+{"area":"guangdong","uid":"493","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_421","type":"startup","vs":"1.1.3","ts":1605614340837}
+{"area":"guangdong","uid":"493","itemid":41,"npgid":29,"evid":"addComment","os":"ios","pgid":42,"appid":"data2020","mid":"mid_421","type":"event","ts":1605629724362}
+{"area":"guangdong","uid":"493","itemid":5,"npgid":43,"evid":"clickItem","os":"ios","pgid":18,"appid":"data2020","mid":"mid_421","type":"event","ts":1605617857433}
+{"area":"guangdong","uid":"493","itemid":5,"npgid":35,"evid":"addComment","os":"ios","pgid":26,"appid":"data2020","mid":"mid_421","type":"event","ts":1605615846073}
+{"area":"sichuan","uid":"479","os":"andriod","ch":"360","appid":"data2020","mid":"mid_471","type":"startup","vs":"1.1.2","ts":1605625124916}
+{"area":"sichuan","uid":"479","itemid":47,"npgid":2,"evid":"addCart","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_471","type":"event","ts":1605625195683}
+{"area":"sichuan","uid":"479","itemid":40,"npgid":2,"evid":"addComment","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_471","type":"event","ts":1605613629513}
+{"area":"sichuan","uid":"479","itemid":27,"npgid":28,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_471","type":"event","ts":1605621559638}
+{"area":"sichuan","uid":"479","itemid":18,"npgid":27,"evid":"addCart","os":"andriod","pgid":14,"appid":"data2020","mid":"mid_471","type":"event","ts":1605615452727}
+{"area":"sichuan","uid":"479","itemid":49,"npgid":19,"evid":"addFavor","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_471","type":"event","ts":1605621532466}
+{"area":"sichuan","uid":"479","itemid":36,"npgid":17,"evid":"clickItem","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_471","type":"event","ts":1605621317526}
+{"area":"heilongjiang","uid":"77","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_32","type":"startup","vs":"1.2.0","ts":1605614867611}
+{"area":"heilongjiang","uid":"77","itemid":37,"npgid":42,"evid":"clickItem","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_32","type":"event","ts":1605621529074}
+{"area":"heilongjiang","uid":"77","itemid":22,"npgid":40,"evid":"clickItem","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_32","type":"event","ts":1605617513366}
+{"area":"heilongjiang","uid":"77","itemid":24,"npgid":28,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_32","type":"event","ts":1605614242110}
+{"area":"heilongjiang","uid":"77","itemid":25,"npgid":10,"evid":"addFavor","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_32","type":"event","ts":1605624879938}
+{"area":"heilongjiang","uid":"77","itemid":44,"npgid":35,"evid":"clickItem","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_32","type":"event","ts":1605623721711}
+{"area":"heilongjiang","uid":"77","itemid":9,"npgid":42,"evid":"clickItem","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_32","type":"event","ts":1605623652791}
+{"area":"guangdong","uid":"407","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_325","type":"startup","vs":"1.2.0","ts":1605625595059}
+{"area":"guangdong","uid":"339","os":"andriod","ch":"360","appid":"data2020","mid":"mid_270","type":"startup","vs":"1.1.3","ts":1605626367499}
+{"area":"guangdong","uid":"339","itemid":30,"npgid":22,"evid":"addCart","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_270","type":"event","ts":1605626985694}
+{"area":"guangdong","uid":"339","itemid":28,"npgid":27,"evid":"clickItem","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_270","type":"event","ts":1605625619187}
+{"area":"shanghai","uid":"435","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_290","type":"startup","vs":"1.1.3","ts":1605625800092}
+{"area":"shanghai","uid":"435","itemid":47,"npgid":44,"evid":"addCart","os":"ios","pgid":36,"appid":"data2020","mid":"mid_290","type":"event","ts":1605615194595}
+{"area":"shanghai","uid":"435","itemid":42,"npgid":49,"evid":"clickItem","os":"ios","pgid":33,"appid":"data2020","mid":"mid_290","type":"event","ts":1605616568042}
+{"area":"shanghai","uid":"435","itemid":30,"npgid":49,"evid":"addComment","os":"ios","pgid":5,"appid":"data2020","mid":"mid_290","type":"event","ts":1605614583746}
+{"area":"shanghai","uid":"435","itemid":38,"npgid":42,"evid":"addComment","os":"ios","pgid":20,"appid":"data2020","mid":"mid_290","type":"event","ts":1605618198840}
+{"area":"shanghai","uid":"435","itemid":22,"npgid":6,"evid":"addComment","os":"ios","pgid":22,"appid":"data2020","mid":"mid_290","type":"event","ts":1605614581891}
+{"area":"shanghai","uid":"435","itemid":15,"npgid":13,"evid":"addComment","os":"ios","pgid":6,"appid":"data2020","mid":"mid_290","type":"event","ts":1605614644251}
+{"area":"shanghai","uid":"435","itemid":36,"npgid":49,"evid":"clickItem","os":"ios","pgid":28,"appid":"data2020","mid":"mid_290","type":"event","ts":1605613918654}
+{"area":"shanghai","uid":"435","itemid":46,"npgid":5,"evid":"addCart","os":"ios","pgid":4,"appid":"data2020","mid":"mid_290","type":"event","ts":1605621122008}
+{"area":"shanghai","uid":"435","itemid":43,"npgid":22,"evid":"addCart","os":"ios","pgid":47,"appid":"data2020","mid":"mid_290","type":"event","ts":1605614008672}
+{"area":"shanghai","uid":"435","itemid":34,"npgid":48,"evid":"addCart","os":"ios","pgid":27,"appid":"data2020","mid":"mid_290","type":"event","ts":1605615492010}
+{"area":"shanghai","uid":"435","itemid":20,"npgid":1,"evid":"clickItem","os":"ios","pgid":9,"appid":"data2020","mid":"mid_290","type":"event","ts":1605622337602}
+{"area":"shanghai","uid":"435","itemid":13,"npgid":28,"evid":"clickItem","os":"ios","pgid":9,"appid":"data2020","mid":"mid_290","type":"event","ts":1605623594655}
+{"area":"shanghai","uid":"435","itemid":38,"npgid":32,"evid":"addComment","os":"ios","pgid":16,"appid":"data2020","mid":"mid_290","type":"event","ts":1605621235857}
+{"area":"shanghai","uid":"435","itemid":43,"npgid":48,"evid":"addComment","os":"ios","pgid":2,"appid":"data2020","mid":"mid_290","type":"event","ts":1605628286432}
+{"area":"guangdong","uid":"305","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_28","type":"startup","vs":"1.2.0","ts":1605617013042}
+{"area":"guangdong","uid":"305","itemid":12,"npgid":27,"evid":"clickItem","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_28","type":"event","ts":1605615203934}
+{"area":"heilongjiang","uid":"261","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_408","type":"startup","vs":"1.1.3","ts":1605625435791}
+{"area":"heilongjiang","uid":"261","itemid":38,"npgid":19,"evid":"addCart","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_408","type":"event","ts":1605627695484}
+{"area":"heilongjiang","uid":"261","itemid":30,"npgid":32,"evid":"addComment","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_408","type":"event","ts":1605628498505}
+{"area":"heilongjiang","uid":"261","itemid":36,"npgid":18,"evid":"addCart","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_408","type":"event","ts":1605628256264}
+{"area":"heilongjiang","uid":"261","itemid":1,"npgid":20,"evid":"clickItem","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_408","type":"event","ts":1605624185588}
+{"area":"heilongjiang","uid":"261","itemid":21,"npgid":17,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_408","type":"event","ts":1605623179388}
+{"area":"heilongjiang","uid":"261","itemid":17,"npgid":38,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_408","type":"event","ts":1605618290886}
+{"area":"heilongjiang","uid":"261","itemid":41,"npgid":47,"evid":"addFavor","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_408","type":"event","ts":1605623241374}
+{"area":"heilongjiang","uid":"261","itemid":4,"npgid":41,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_408","type":"event","ts":1605622811868}
+{"area":"beijing","uid":"484","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_265","type":"startup","vs":"1.1.3","ts":1605617991840}
+{"area":"beijing","uid":"484","itemid":35,"npgid":21,"evid":"addCart","os":"ios","pgid":49,"appid":"data2020","mid":"mid_265","type":"event","ts":1605624184972}
+{"area":"beijing","uid":"484","itemid":37,"npgid":11,"evid":"addComment","os":"ios","pgid":32,"appid":"data2020","mid":"mid_265","type":"event","ts":1605616594843}
+{"area":"beijing","uid":"484","itemid":18,"npgid":22,"evid":"addComment","os":"ios","pgid":25,"appid":"data2020","mid":"mid_265","type":"event","ts":1605628931969}
+{"area":"beijing","uid":"484","itemid":0,"npgid":45,"evid":"clickItem","os":"ios","pgid":8,"appid":"data2020","mid":"mid_265","type":"event","ts":1605617877043}
+{"area":"beijing","uid":"484","itemid":12,"npgid":40,"evid":"clickItem","os":"ios","pgid":50,"appid":"data2020","mid":"mid_265","type":"event","ts":1605624338674}
+{"area":"beijing","uid":"484","itemid":30,"npgid":27,"evid":"clickItem","os":"ios","pgid":45,"appid":"data2020","mid":"mid_265","type":"event","ts":1605620822627}
+{"area":"beijing","uid":"484","itemid":18,"npgid":47,"evid":"addComment","os":"ios","pgid":13,"appid":"data2020","mid":"mid_265","type":"event","ts":1605618868892}
+{"area":"sichuan","uid":"320","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_161","type":"startup","vs":"1.1.1","ts":1605622899346}
+{"area":"shan3xi","uid":"396","os":"andriod","ch":"website","appid":"data2020","mid":"mid_58","type":"startup","vs":"1.1.2","ts":1605621691665}
+{"area":"shan3xi","uid":"396","itemid":29,"npgid":49,"evid":"addComment","os":"andriod","pgid":14,"appid":"data2020","mid":"mid_58","type":"event","ts":1605616396791}
+{"area":"shandong","uid":"158","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_64","type":"startup","vs":"1.1.2","ts":1605628120359}
+{"area":"shandong","uid":"158","itemid":32,"npgid":43,"evid":"clickItem","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_64","type":"event","ts":1605622831317}
+{"area":"shandong","uid":"158","itemid":37,"npgid":44,"evid":"clickItem","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_64","type":"event","ts":1605620289248}
+{"area":"shandong","uid":"158","itemid":14,"npgid":41,"evid":"addCart","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_64","type":"event","ts":1605615387074}
+{"area":"shan1xi","uid":"68","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_45","type":"startup","vs":"1.2.0","ts":1605613855567}
+{"area":"shan1xi","uid":"68","itemid":17,"npgid":27,"evid":"addCart","os":"ios","pgid":2,"appid":"data2020","mid":"mid_45","type":"event","ts":1605616409506}
+{"area":"shan1xi","uid":"68","itemid":34,"npgid":49,"evid":"clickItem","os":"ios","pgid":3,"appid":"data2020","mid":"mid_45","type":"event","ts":1605630459985}
+{"area":"guangdong","uid":"80","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_105","type":"startup","vs":"1.2.0","ts":1605615814128}
+{"area":"guangdong","uid":"20","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_178","type":"startup","vs":"1.2.0","ts":1605618986452}
+{"area":"shan3xi","uid":"440","os":"andriod","ch":"360","appid":"data2020","mid":"mid_224","type":"startup","vs":"1.2.0","ts":1605619164847}
+{"area":"guangdong","uid":"31","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_421","type":"startup","vs":"1.2.0","ts":1605618203636}
+{"area":"guangdong","uid":"31","itemid":2,"npgid":3,"evid":"clickItem","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_421","type":"event","ts":1605616646199}
+{"area":"guangdong","uid":"31","itemid":35,"npgid":21,"evid":"addComment","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_421","type":"event","ts":1605623110028}
+{"area":"guangdong","uid":"434","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_136","type":"startup","vs":"1.1.3","ts":1605618312509}
+{"area":"guangdong","uid":"434","itemid":32,"npgid":30,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_136","type":"event","ts":1605630016232}
+{"area":"guangdong","uid":"434","itemid":44,"npgid":7,"evid":"clickItem","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_136","type":"event","ts":1605621629623}
+{"area":"guangdong","uid":"434","itemid":23,"npgid":12,"evid":"addComment","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_136","type":"event","ts":1605627067608}
+{"area":"guangdong","uid":"434","itemid":20,"npgid":26,"evid":"addCart","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_136","type":"event","ts":1605614821267}
+{"area":"guangdong","uid":"434","itemid":45,"npgid":5,"evid":"clickItem","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_136","type":"event","ts":1605616572454}
+{"area":"guangdong","uid":"434","itemid":48,"npgid":34,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_136","type":"event","ts":1605613654119}
+{"area":"guangdong","uid":"434","itemid":7,"npgid":11,"evid":"addComment","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_136","type":"event","ts":1605621984911}
+{"area":"guangdong","uid":"434","itemid":43,"npgid":21,"evid":"addCart","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_136","type":"event","ts":1605628525397}
+{"area":"guangdong","uid":"434","itemid":9,"npgid":31,"evid":"clickItem","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_136","type":"event","ts":1605629366816}
+{"area":"guangdong","uid":"434","itemid":13,"npgid":41,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_136","type":"event","ts":1605621430780}
+{"area":"beijing","uid":"75","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_346","type":"startup","vs":"1.2.0","ts":1605628089042}
+{"area":"beijing","uid":"75","itemid":12,"npgid":4,"evid":"clickItem","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_346","type":"event","ts":1605627954683}
+{"area":"beijing","uid":"415","os":"andriod","ch":"360","appid":"data2020","mid":"mid_321","type":"startup","vs":"1.2.0","ts":1605621952636}
+{"area":"beijing","uid":"415","itemid":25,"npgid":35,"evid":"addComment","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_321","type":"event","ts":1605613514089}
+{"area":"beijing","uid":"415","itemid":3,"npgid":36,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_321","type":"event","ts":1605621331383}
+{"area":"beijing","uid":"415","itemid":1,"npgid":49,"evid":"addComment","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_321","type":"event","ts":1605614515551}
+{"area":"beijing","uid":"415","itemid":28,"npgid":23,"evid":"clickItem","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_321","type":"event","ts":1605619290967}
+{"area":"beijing","uid":"415","itemid":26,"npgid":42,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_321","type":"event","ts":1605629074824}
+{"area":"beijing","uid":"415","itemid":16,"npgid":34,"evid":"addComment","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_321","type":"event","ts":1605625631141}
+{"area":"beijing","uid":"415","itemid":23,"npgid":15,"evid":"addComment","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_321","type":"event","ts":1605622436226}
+{"area":"beijing","uid":"415","itemid":11,"npgid":6,"evid":"addCart","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_321","type":"event","ts":1605625498252}
+{"area":"beijing","uid":"415","itemid":40,"npgid":2,"evid":"clickItem","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_321","type":"event","ts":1605627249303}
+{"area":"beijing","uid":"415","itemid":11,"npgid":27,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_321","type":"event","ts":1605624723392}
+{"area":"beijing","uid":"415","itemid":21,"npgid":27,"evid":"clickItem","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_321","type":"event","ts":1605626422425}
+{"area":"beijing","uid":"415","itemid":7,"npgid":22,"evid":"addCart","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_321","type":"event","ts":1605617056510}
+{"area":"beijing","uid":"415","itemid":25,"npgid":13,"evid":"addComment","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_321","type":"event","ts":1605615227056}
+{"area":"beijing","uid":"415","itemid":5,"npgid":23,"evid":"clickItem","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_321","type":"event","ts":1605628491741}
+{"area":"beijing","uid":"415","itemid":25,"npgid":31,"evid":"clickItem","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_321","type":"event","ts":1605616546177}
+{"area":"beijing","uid":"415","itemid":17,"npgid":24,"evid":"addFavor","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_321","type":"event","ts":1605622092246}
+{"area":"beijing","uid":"415","itemid":38,"npgid":50,"evid":"clickItem","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_321","type":"event","ts":1605619741933}
+{"area":"beijing","uid":"415","itemid":8,"npgid":48,"evid":"addCart","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_321","type":"event","ts":1605619894561}
+{"area":"beijing","uid":"415","itemid":16,"npgid":22,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_321","type":"event","ts":1605625996387}
+{"area":"beijing","uid":"415","itemid":8,"npgid":16,"evid":"addCart","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_321","type":"event","ts":1605630917865}
+{"area":"beijing","uid":"415","itemid":28,"npgid":36,"evid":"clickItem","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_321","type":"event","ts":1605631376789}
+{"area":"heilongjiang","uid":"213","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_371","type":"startup","vs":"1.1.2","ts":1605627748270}
+{"area":"heilongjiang","uid":"213","itemid":34,"npgid":12,"evid":"clickItem","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_371","type":"event","ts":1605613729085}
+{"area":"heilongjiang","uid":"213","itemid":42,"npgid":40,"evid":"addComment","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_371","type":"event","ts":1605625065490}
+{"area":"heilongjiang","uid":"213","itemid":44,"npgid":36,"evid":"addCart","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_371","type":"event","ts":1605628195615}
+{"area":"heilongjiang","uid":"213","itemid":15,"npgid":37,"evid":"clickItem","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_371","type":"event","ts":1605621871714}
+{"area":"heilongjiang","uid":"213","itemid":36,"npgid":44,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_371","type":"event","ts":1605624247736}
+{"area":"heilongjiang","uid":"213","itemid":15,"npgid":5,"evid":"addCart","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_371","type":"event","ts":1605627274471}
+{"area":"heilongjiang","uid":"213","itemid":37,"npgid":2,"evid":"clickItem","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_371","type":"event","ts":1605624222387}
+{"area":"heilongjiang","uid":"213","itemid":36,"npgid":37,"evid":"addComment","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_371","type":"event","ts":1605630901680}
+{"area":"heilongjiang","uid":"213","itemid":34,"npgid":24,"evid":"addFavor","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_371","type":"event","ts":1605622521891}
+{"area":"heilongjiang","uid":"213","itemid":21,"npgid":48,"evid":"addComment","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_371","type":"event","ts":1605614958091}
+{"area":"beijing","uid":"313","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_478","type":"startup","vs":"1.2.0","ts":1605628216671}
+{"area":"heilongjiang","uid":"194","os":"andriod","ch":"360","appid":"data2020","mid":"mid_90","type":"startup","vs":"1.1.3","ts":1605625100513}
+{"area":"heilongjiang","uid":"194","itemid":19,"npgid":28,"evid":"addComment","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_90","type":"event","ts":1605616183429}
+{"area":"heilongjiang","uid":"194","itemid":25,"npgid":34,"evid":"clickItem","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_90","type":"event","ts":1605630924361}
+{"area":"heilongjiang","uid":"194","itemid":13,"npgid":17,"evid":"addComment","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_90","type":"event","ts":1605616432069}
+{"area":"shan1xi","uid":"439","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_264","type":"startup","vs":"1.2.0","ts":1605623499138}
+{"area":"shan1xi","uid":"439","itemid":41,"npgid":5,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_264","type":"event","ts":1605621531781}
+{"area":"shan1xi","uid":"439","itemid":24,"npgid":8,"evid":"clickItem","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_264","type":"event","ts":1605625550393}
+{"area":"shan1xi","uid":"439","itemid":22,"npgid":26,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_264","type":"event","ts":1605615875351}
+{"area":"shan1xi","uid":"439","itemid":40,"npgid":15,"evid":"clickItem","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_264","type":"event","ts":1605630192024}
+{"area":"shan1xi","uid":"439","itemid":18,"npgid":35,"evid":"clickItem","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_264","type":"event","ts":1605624831038}
+{"area":"shan1xi","uid":"439","itemid":12,"npgid":2,"evid":"addCart","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_264","type":"event","ts":1605624190872}
+{"area":"shan1xi","uid":"439","itemid":21,"npgid":40,"evid":"addComment","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_264","type":"event","ts":1605626187497}
+{"area":"shandong","uid":"178","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_475","type":"startup","vs":"1.1.3","ts":1605629210026}
+{"area":"shandong","uid":"178","itemid":43,"npgid":38,"evid":"addCart","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_475","type":"event","ts":1605617371587}
+{"area":"shandong","uid":"178","itemid":28,"npgid":13,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_475","type":"event","ts":1605630616003}
+{"area":"tianjin","uid":"344","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_49","type":"startup","vs":"1.2.0","ts":1605623469623}
+{"area":"tianjin","uid":"344","itemid":46,"npgid":37,"evid":"addComment","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_49","type":"event","ts":1605629470633}
+{"area":"tianjin","uid":"344","itemid":39,"npgid":36,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_49","type":"event","ts":1605625837859}
+{"area":"tianjin","uid":"344","itemid":14,"npgid":15,"evid":"addComment","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_49","type":"event","ts":1605617620386}
+{"area":"tianjin","uid":"344","itemid":45,"npgid":32,"evid":"clickItem","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_49","type":"event","ts":1605614464684}
+{"area":"tianjin","uid":"344","itemid":24,"npgid":5,"evid":"addFavor","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_49","type":"event","ts":1605624373844}
+{"area":"tianjin","uid":"344","itemid":24,"npgid":48,"evid":"addCart","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_49","type":"event","ts":1605620379150}
+{"area":"tianjin","uid":"344","itemid":13,"npgid":44,"evid":"addComment","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_49","type":"event","ts":1605626517866}
+{"area":"tianjin","uid":"344","itemid":13,"npgid":11,"evid":"addComment","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_49","type":"event","ts":1605616642566}
+{"area":"tianjin","uid":"344","itemid":5,"npgid":36,"evid":"addComment","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_49","type":"event","ts":1605613729366}
+{"area":"guangdong","uid":"116","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_381","type":"startup","vs":"1.2.0","ts":1605631246210}
+{"area":"shanghai","uid":"438","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_20","type":"startup","vs":"1.2.0","ts":1605622328456}
+{"area":"shanghai","uid":"438","itemid":16,"npgid":34,"evid":"clickItem","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_20","type":"event","ts":1605621020115}
+{"area":"shanghai","uid":"438","itemid":20,"npgid":14,"evid":"addCart","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_20","type":"event","ts":1605627833492}
+{"area":"shanghai","uid":"438","itemid":23,"npgid":12,"evid":"addCart","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_20","type":"event","ts":1605629695827}
+{"area":"shanghai","uid":"438","itemid":16,"npgid":2,"evid":"addCart","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_20","type":"event","ts":1605624833159}
+{"area":"hebei","uid":"329","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_289","type":"startup","vs":"1.1.3","ts":1605617153189}
+{"area":"hebei","uid":"329","itemid":13,"npgid":41,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_289","type":"event","ts":1605626611523}
+{"area":"hebei","uid":"329","itemid":4,"npgid":44,"evid":"addComment","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_289","type":"event","ts":1605616481528}
+{"area":"hebei","uid":"329","itemid":31,"npgid":10,"evid":"addCart","os":"andriod","pgid":1,"appid":"data2020","mid":"mid_289","type":"event","ts":1605617976244}
+{"area":"hebei","uid":"329","itemid":26,"npgid":46,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_289","type":"event","ts":1605621695220}
+{"area":"hebei","uid":"329","itemid":30,"npgid":12,"evid":"addCart","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_289","type":"event","ts":1605628464859}
+{"area":"hebei","uid":"329","itemid":29,"npgid":6,"evid":"addComment","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_289","type":"event","ts":1605618361169}
+{"area":"hebei","uid":"329","itemid":32,"npgid":19,"evid":"addComment","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_289","type":"event","ts":1605624773057}
+{"area":"hebei","uid":"329","itemid":2,"npgid":39,"evid":"addCart","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_289","type":"event","ts":1605615450156}
+{"area":"guangdong","uid":"68","os":"andriod","ch":"360","appid":"data2020","mid":"mid_82","type":"startup","vs":"1.2.0","ts":1605620044571}
+{"area":"guangdong","uid":"68","itemid":26,"npgid":44,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_82","type":"event","ts":1605619005623}
+{"area":"guangdong","uid":"406","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_193","type":"startup","vs":"1.2.0","ts":1605622729104}
+{"area":"shan3xi","uid":"243","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_47","type":"startup","vs":"1.2.0","ts":1605625284277}
+{"area":"shan3xi","uid":"243","itemid":2,"npgid":10,"evid":"clickItem","os":"ios","pgid":12,"appid":"data2020","mid":"mid_47","type":"event","ts":1605626727224}
+2020-11-17 19:44:08,166 - Autowired annotation is not supported on static fields: private static final org.slf4j.Logger com.dlp.www.dwlogger.LogJsonController.logger
+2020-11-17 19:44:09,218 - {"area":"sichuan","uid":"329","itemid":31,"npgid":44,"evid":"addComment","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_127","type":"event","ts":1605630866218}
+2020-11-17 19:44:09,235 - {"area":"sichuan","uid":"329","itemid":38,"npgid":6,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_127","type":"event","ts":1605627947215}
+2020-11-17 19:44:09,238 - {"area":"sichuan","uid":"329","itemid":48,"npgid":27,"evid":"addComment","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_127","type":"event","ts":1605619401451}
+2020-11-17 19:44:10,242 - {"area":"guangdong","uid":"458","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_308","type":"startup","vs":"1.1.3","ts":1605631207788}
+2020-11-17 19:44:10,247 - {"area":"guangdong","uid":"458","itemid":0,"npgid":41,"evid":"addComment","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_308","type":"event","ts":1605616139188}
+2020-11-17 19:44:10,251 - {"area":"guangdong","uid":"458","itemid":12,"npgid":16,"evid":"clickItem","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_308","type":"event","ts":1605629294349}
+2020-11-17 19:44:10,256 - {"area":"guangdong","uid":"458","itemid":12,"npgid":43,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_308","type":"event","ts":1605618241382}
+2020-11-17 19:44:10,260 - {"area":"guangdong","uid":"458","itemid":30,"npgid":17,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_308","type":"event","ts":1605626898350}
+2020-11-17 19:44:10,263 - {"area":"guangdong","uid":"458","itemid":20,"npgid":6,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_308","type":"event","ts":1605618265803}
+2020-11-17 19:44:10,268 - {"area":"guangdong","uid":"458","itemid":7,"npgid":15,"evid":"addComment","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_308","type":"event","ts":1605620842893}
+2020-11-17 19:44:10,271 - {"area":"guangdong","uid":"458","itemid":22,"npgid":13,"evid":"clickItem","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_308","type":"event","ts":1605620134381}
+2020-11-17 19:44:10,275 - {"area":"guangdong","uid":"458","itemid":5,"npgid":46,"evid":"clickItem","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_308","type":"event","ts":1605620823474}
+2020-11-17 19:44:11,279 - {"area":"tianjin","uid":"181","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_344","type":"startup","vs":"1.1.3","ts":1605624929498}
+2020-11-17 19:44:11,283 - {"area":"tianjin","uid":"181","itemid":38,"npgid":2,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_344","type":"event","ts":1605630603793}
+2020-11-17 19:44:12,288 - {"area":"beijing","uid":"307","os":"andriod","ch":"website","appid":"data2020","mid":"mid_108","type":"startup","vs":"1.1.3","ts":1605626692374}
+2020-11-17 19:44:13,291 - {"area":"beijing","uid":"87","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_174","type":"startup","vs":"1.1.2","ts":1605617130387}
+2020-11-17 19:44:14,294 - {"area":"beijing","uid":"34","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_74","type":"startup","vs":"1.1.3","ts":1605623376188}
+2020-11-17 19:44:14,297 - {"area":"beijing","uid":"34","itemid":45,"npgid":42,"evid":"addCart","os":"ios","pgid":15,"appid":"data2020","mid":"mid_74","type":"event","ts":1605626384119}
+2020-11-17 19:44:15,298 - {"area":"shanghai","uid":"258","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_332","type":"startup","vs":"1.1.3","ts":1605623137966}
+2020-11-17 19:44:15,300 - {"area":"shanghai","uid":"258","itemid":20,"npgid":17,"evid":"addComment","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_332","type":"event","ts":1605627950412}
+2020-11-17 19:44:15,301 - {"area":"shanghai","uid":"258","itemid":22,"npgid":50,"evid":"addFavor","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_332","type":"event","ts":1605626431104}
+2020-11-17 19:44:15,303 - {"area":"shanghai","uid":"258","itemid":1,"npgid":7,"evid":"addCart","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_332","type":"event","ts":1605617892169}
+2020-11-17 19:44:15,305 - {"area":"shanghai","uid":"258","itemid":20,"npgid":38,"evid":"addCart","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_332","type":"event","ts":1605619198310}
+2020-11-17 19:44:15,306 - {"area":"shanghai","uid":"258","itemid":11,"npgid":23,"evid":"addComment","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_332","type":"event","ts":1605623750234}
+2020-11-17 19:44:15,307 - {"area":"shanghai","uid":"258","itemid":9,"npgid":50,"evid":"clickItem","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_332","type":"event","ts":1605616122717}
+2020-11-17 19:44:15,309 - {"area":"shanghai","uid":"258","itemid":26,"npgid":36,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_332","type":"event","ts":1605631032436}
+2020-11-17 19:44:15,310 - {"area":"shanghai","uid":"258","itemid":34,"npgid":25,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_332","type":"event","ts":1605626608113}
+2020-11-17 19:44:15,312 - {"area":"shanghai","uid":"258","itemid":8,"npgid":12,"evid":"clickItem","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_332","type":"event","ts":1605616975195}
+2020-11-17 19:44:15,313 - {"area":"shanghai","uid":"258","itemid":34,"npgid":45,"evid":"clickItem","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_332","type":"event","ts":1605625971661}
+2020-11-17 19:44:15,314 - {"area":"shanghai","uid":"258","itemid":16,"npgid":34,"evid":"addComment","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_332","type":"event","ts":1605629153136}
+2020-11-17 19:44:16,316 - {"area":"shan1xi","uid":"256","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_102","type":"startup","vs":"1.1.3","ts":1605624981684}
+2020-11-17 19:44:16,318 - {"area":"shan1xi","uid":"256","itemid":10,"npgid":48,"evid":"clickItem","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_102","type":"event","ts":1605620148364}
+2020-11-17 19:44:16,320 - {"area":"shan1xi","uid":"256","itemid":23,"npgid":30,"evid":"clickItem","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_102","type":"event","ts":1605624907997}
+2020-11-17 19:44:17,321 - {"area":"hebei","uid":"22","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_112","type":"startup","vs":"1.1.3","ts":1605627786233}
+2020-11-17 19:44:17,322 - {"area":"hebei","uid":"22","itemid":34,"npgid":40,"evid":"addCart","os":"ios","pgid":26,"appid":"data2020","mid":"mid_112","type":"event","ts":1605629071077}
+2020-11-17 19:44:17,324 - {"area":"hebei","uid":"22","itemid":33,"npgid":23,"evid":"addCart","os":"ios","pgid":49,"appid":"data2020","mid":"mid_112","type":"event","ts":1605623891570}
+2020-11-17 19:44:17,325 - {"area":"hebei","uid":"22","itemid":22,"npgid":37,"evid":"addComment","os":"ios","pgid":6,"appid":"data2020","mid":"mid_112","type":"event","ts":1605625972272}
+2020-11-17 19:44:17,326 - {"area":"hebei","uid":"22","itemid":4,"npgid":27,"evid":"clickItem","os":"ios","pgid":3,"appid":"data2020","mid":"mid_112","type":"event","ts":1605627130641}
+2020-11-17 19:44:17,327 - {"area":"hebei","uid":"22","itemid":27,"npgid":17,"evid":"clickItem","os":"ios","pgid":35,"appid":"data2020","mid":"mid_112","type":"event","ts":1605614770137}
+2020-11-17 19:44:18,329 - {"area":"shan1xi","uid":"406","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_134","type":"startup","vs":"1.1.2","ts":1605624848421}
+2020-11-17 19:44:18,331 - {"area":"shan1xi","uid":"406","itemid":5,"npgid":47,"evid":"clickItem","os":"ios","pgid":50,"appid":"data2020","mid":"mid_134","type":"event","ts":1605618576314}
+2020-11-17 19:44:18,332 - {"area":"shan1xi","uid":"406","itemid":49,"npgid":39,"evid":"addComment","os":"ios","pgid":50,"appid":"data2020","mid":"mid_134","type":"event","ts":1605614293741}
+2020-11-17 19:44:18,333 - {"area":"shan1xi","uid":"406","itemid":34,"npgid":48,"evid":"addComment","os":"ios","pgid":3,"appid":"data2020","mid":"mid_134","type":"event","ts":1605623158323}
+2020-11-17 19:44:18,335 - {"area":"shan1xi","uid":"406","itemid":35,"npgid":46,"evid":"addFavor","os":"ios","pgid":29,"appid":"data2020","mid":"mid_134","type":"event","ts":1605628173809}
+2020-11-17 19:44:18,336 - {"area":"shan1xi","uid":"406","itemid":44,"npgid":23,"evid":"addComment","os":"ios","pgid":29,"appid":"data2020","mid":"mid_134","type":"event","ts":1605627919069}
+2020-11-17 19:44:18,337 - {"area":"shan1xi","uid":"406","itemid":38,"npgid":26,"evid":"addComment","os":"ios","pgid":46,"appid":"data2020","mid":"mid_134","type":"event","ts":1605625197323}
+2020-11-17 19:44:18,338 - {"area":"shan1xi","uid":"406","itemid":13,"npgid":29,"evid":"addCart","os":"ios","pgid":12,"appid":"data2020","mid":"mid_134","type":"event","ts":1605622726580}
+2020-11-17 19:44:18,339 - {"area":"shan1xi","uid":"406","itemid":32,"npgid":23,"evid":"addComment","os":"ios","pgid":29,"appid":"data2020","mid":"mid_134","type":"event","ts":1605625615409}
+2020-11-17 19:44:19,340 - {"area":"guangdong","uid":"170","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_114","type":"startup","vs":"1.2.0","ts":1605619373063}
+2020-11-17 19:44:19,341 - {"area":"guangdong","uid":"170","itemid":49,"npgid":3,"evid":"addComment","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_114","type":"event","ts":1605627531179}
+2020-11-17 19:44:20,344 - {"area":"guangdong","uid":"455","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_302","type":"startup","vs":"1.2.0","ts":1605630896075}
+2020-11-17 19:44:20,345 - {"area":"guangdong","uid":"455","itemid":24,"npgid":32,"evid":"addCart","os":"ios","pgid":42,"appid":"data2020","mid":"mid_302","type":"event","ts":1605625801782}
+2020-11-17 19:44:20,346 - {"area":"guangdong","uid":"455","itemid":12,"npgid":28,"evid":"addComment","os":"ios","pgid":15,"appid":"data2020","mid":"mid_302","type":"event","ts":1605621002971}
+2020-11-17 19:44:20,348 - {"area":"guangdong","uid":"455","itemid":36,"npgid":6,"evid":"addComment","os":"ios","pgid":38,"appid":"data2020","mid":"mid_302","type":"event","ts":1605630292636}
+2020-11-17 19:44:20,349 - {"area":"guangdong","uid":"455","itemid":22,"npgid":37,"evid":"clickItem","os":"ios","pgid":27,"appid":"data2020","mid":"mid_302","type":"event","ts":1605622643375}
+2020-11-17 19:44:20,350 - {"area":"guangdong","uid":"455","itemid":26,"npgid":18,"evid":"addComment","os":"ios","pgid":40,"appid":"data2020","mid":"mid_302","type":"event","ts":1605624089655}
+2020-11-17 19:44:20,350 - {"area":"guangdong","uid":"455","itemid":20,"npgid":41,"evid":"clickItem","os":"ios","pgid":46,"appid":"data2020","mid":"mid_302","type":"event","ts":1605619138388}
+2020-11-17 19:44:20,351 - {"area":"guangdong","uid":"455","itemid":15,"npgid":29,"evid":"clickItem","os":"ios","pgid":47,"appid":"data2020","mid":"mid_302","type":"event","ts":1605620408049}
+2020-11-17 19:44:21,353 - {"area":"shan1xi","uid":"100","os":"andriod","ch":"website","appid":"data2020","mid":"mid_53","type":"startup","vs":"1.2.0","ts":1605616849466}
+2020-11-17 19:44:21,354 - {"area":"shan1xi","uid":"100","itemid":37,"npgid":17,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_53","type":"event","ts":1605621488520}
+2020-11-17 19:44:21,355 - {"area":"shan1xi","uid":"100","itemid":27,"npgid":30,"evid":"addCart","os":"andriod","pgid":34,"appid":"data2020","mid":"mid_53","type":"event","ts":1605619164549}
+2020-11-17 19:44:21,356 - {"area":"shan1xi","uid":"100","itemid":33,"npgid":31,"evid":"addComment","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_53","type":"event","ts":1605623290844}
+2020-11-17 19:44:21,357 - {"area":"shan1xi","uid":"100","itemid":34,"npgid":8,"evid":"addCart","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_53","type":"event","ts":1605623290140}
+2020-11-17 19:44:21,359 - {"area":"shan1xi","uid":"100","itemid":15,"npgid":19,"evid":"addComment","os":"andriod","pgid":8,"appid":"data2020","mid":"mid_53","type":"event","ts":1605619983644}
+2020-11-17 19:44:21,360 - {"area":"shan1xi","uid":"100","itemid":9,"npgid":48,"evid":"addComment","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_53","type":"event","ts":1605623631104}
+2020-11-17 19:44:21,361 - {"area":"shan1xi","uid":"100","itemid":39,"npgid":38,"evid":"clickItem","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_53","type":"event","ts":1605621547515}
+2020-11-17 19:44:21,362 - {"area":"shan1xi","uid":"100","itemid":46,"npgid":42,"evid":"clickItem","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_53","type":"event","ts":1605615362516}
+2020-11-17 19:44:21,363 - {"area":"shan1xi","uid":"100","itemid":27,"npgid":30,"evid":"clickItem","os":"andriod","pgid":39,"appid":"data2020","mid":"mid_53","type":"event","ts":1605619536116}
+2020-11-17 19:44:21,364 - {"area":"shan1xi","uid":"100","itemid":13,"npgid":41,"evid":"clickItem","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_53","type":"event","ts":1605615042851}
+2020-11-17 19:44:21,365 - {"area":"shan1xi","uid":"100","itemid":45,"npgid":26,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_53","type":"event","ts":1605629924542}
+2020-11-17 19:44:21,366 - {"area":"shan1xi","uid":"100","itemid":17,"npgid":26,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_53","type":"event","ts":1605630934483}
+2020-11-17 19:44:22,367 - {"area":"shan1xi","uid":"135","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_388","type":"startup","vs":"1.2.0","ts":1605629339057}
+2020-11-17 19:44:22,368 - {"area":"shan1xi","uid":"135","itemid":15,"npgid":17,"evid":"clickItem","os":"ios","pgid":9,"appid":"data2020","mid":"mid_388","type":"event","ts":1605616957205}
+2020-11-17 19:44:22,369 - {"area":"shan1xi","uid":"135","itemid":23,"npgid":28,"evid":"addFavor","os":"ios","pgid":29,"appid":"data2020","mid":"mid_388","type":"event","ts":1605631312432}
+2020-11-17 19:44:22,370 - {"area":"shan1xi","uid":"135","itemid":16,"npgid":4,"evid":"addComment","os":"ios","pgid":26,"appid":"data2020","mid":"mid_388","type":"event","ts":1605614983181}
+2020-11-17 19:44:22,371 - {"area":"shan1xi","uid":"135","itemid":27,"npgid":10,"evid":"clickItem","os":"ios","pgid":12,"appid":"data2020","mid":"mid_388","type":"event","ts":1605618165346}
+2020-11-17 19:44:22,372 - {"area":"shan1xi","uid":"135","itemid":43,"npgid":13,"evid":"addComment","os":"ios","pgid":21,"appid":"data2020","mid":"mid_388","type":"event","ts":1605622122491}
+2020-11-17 19:44:22,373 - {"area":"shan1xi","uid":"135","itemid":19,"npgid":34,"evid":"clickItem","os":"ios","pgid":14,"appid":"data2020","mid":"mid_388","type":"event","ts":1605630919859}
+2020-11-17 19:44:22,374 - {"area":"shan1xi","uid":"135","itemid":22,"npgid":41,"evid":"addCart","os":"ios","pgid":16,"appid":"data2020","mid":"mid_388","type":"event","ts":1605622759570}
+2020-11-17 19:44:22,375 - {"area":"shan1xi","uid":"135","itemid":1,"npgid":13,"evid":"clickItem","os":"ios","pgid":44,"appid":"data2020","mid":"mid_388","type":"event","ts":1605630128871}
+2020-11-17 19:44:23,377 - {"area":"guangdong","uid":"319","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_408","type":"startup","vs":"1.2.0","ts":1605629274952}
+2020-11-17 19:44:24,378 - {"area":"shan1xi","uid":"379","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_338","type":"startup","vs":"1.1.3","ts":1605613891608}
+2020-11-17 19:44:25,381 - {"area":"shanghai","uid":"304","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_282","type":"startup","vs":"1.2.0","ts":1605623279740}
+2020-11-17 19:44:25,384 - {"area":"shanghai","uid":"304","itemid":27,"npgid":47,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_282","type":"event","ts":1605626640362}
+2020-11-17 19:44:25,387 - {"area":"shanghai","uid":"304","itemid":41,"npgid":36,"evid":"addCart","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_282","type":"event","ts":1605626454105}
+2020-11-17 19:44:25,390 - {"area":"shanghai","uid":"304","itemid":5,"npgid":17,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_282","type":"event","ts":1605629933027}
+2020-11-17 19:44:26,393 - {"area":"shanghai","uid":"132","os":"andriod","ch":"website","appid":"data2020","mid":"mid_399","type":"startup","vs":"1.1.3","ts":1605614559509}
+2020-11-17 19:44:26,395 - {"area":"shanghai","uid":"132","itemid":13,"npgid":34,"evid":"addComment","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_399","type":"event","ts":1605615289816}
+2020-11-17 19:44:26,396 - {"area":"shanghai","uid":"132","itemid":20,"npgid":20,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_399","type":"event","ts":1605617945759}
+2020-11-17 19:44:26,397 - {"area":"shanghai","uid":"132","itemid":40,"npgid":18,"evid":"addComment","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_399","type":"event","ts":1605624719977}
+2020-11-17 19:44:26,398 - {"area":"shanghai","uid":"132","itemid":30,"npgid":17,"evid":"addCart","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_399","type":"event","ts":1605629926181}
+2020-11-17 19:44:26,399 - {"area":"shanghai","uid":"132","itemid":0,"npgid":23,"evid":"clickItem","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_399","type":"event","ts":1605618758994}
+2020-11-17 19:44:26,400 - {"area":"shanghai","uid":"132","itemid":26,"npgid":41,"evid":"addFavor","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_399","type":"event","ts":1605619000880}
+2020-11-17 19:44:27,401 - {"area":"shandong","uid":"217","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_46","type":"startup","vs":"1.2.0","ts":1605616171355}
+2020-11-17 19:44:27,402 - {"area":"shandong","uid":"217","itemid":34,"npgid":3,"evid":"clickItem","os":"ios","pgid":14,"appid":"data2020","mid":"mid_46","type":"event","ts":1605613806719}
+2020-11-17 19:44:27,404 - {"area":"shandong","uid":"217","itemid":24,"npgid":34,"evid":"addComment","os":"ios","pgid":33,"appid":"data2020","mid":"mid_46","type":"event","ts":1605628220542}
+2020-11-17 19:44:28,406 - {"area":"guangdong","uid":"335","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_458","type":"startup","vs":"1.2.0","ts":1605629721047}
+2020-11-17 19:44:28,409 - {"area":"guangdong","uid":"335","itemid":10,"npgid":34,"evid":"addComment","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_458","type":"event","ts":1605615836117}
+2020-11-17 19:44:28,412 - {"area":"guangdong","uid":"335","itemid":26,"npgid":46,"evid":"addComment","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_458","type":"event","ts":1605620005991}
+2020-11-17 19:44:29,415 - {"area":"beijing","uid":"477","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_409","type":"startup","vs":"1.2.0","ts":1605618528944}
+2020-11-17 19:44:29,420 - {"area":"beijing","uid":"477","itemid":16,"npgid":8,"evid":"addCart","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_409","type":"event","ts":1605620075197}
+2020-11-17 19:44:30,423 - {"area":"heilongjiang","uid":"201","os":"andriod","ch":"website","appid":"data2020","mid":"mid_487","type":"startup","vs":"1.1.2","ts":1605630688100}
+2020-11-17 19:44:31,427 - {"area":"guangdong","uid":"52","os":"andriod","ch":"360","appid":"data2020","mid":"mid_475","type":"startup","vs":"1.2.0","ts":1605623654267}
+2020-11-17 19:44:31,430 - {"area":"guangdong","uid":"52","itemid":9,"npgid":7,"evid":"addFavor","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_475","type":"event","ts":1605623163596}
+2020-11-17 19:44:31,432 - {"area":"guangdong","uid":"52","itemid":39,"npgid":42,"evid":"addCart","os":"andriod","pgid":8,"appid":"data2020","mid":"mid_475","type":"event","ts":1605629192587}
+2020-11-17 19:44:31,435 - {"area":"guangdong","uid":"52","itemid":40,"npgid":41,"evid":"addCart","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_475","type":"event","ts":1605618634324}
+2020-11-17 19:44:31,437 - {"area":"guangdong","uid":"52","itemid":28,"npgid":24,"evid":"addComment","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_475","type":"event","ts":1605620285959}
+2020-11-17 19:44:32,440 - {"area":"tianjin","uid":"277","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_92","type":"startup","vs":"1.2.0","ts":1605623156344}
+2020-11-17 19:44:33,443 - {"area":"guangdong","uid":"405","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_294","type":"startup","vs":"1.1.1","ts":1605626073453}
+2020-11-17 19:44:33,446 - {"area":"guangdong","uid":"405","itemid":33,"npgid":17,"evid":"addComment","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_294","type":"event","ts":1605624806863}
+2020-11-17 19:44:33,449 - {"area":"guangdong","uid":"405","itemid":10,"npgid":34,"evid":"addCart","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_294","type":"event","ts":1605617821377}
+2020-11-17 19:44:33,451 - {"area":"guangdong","uid":"405","itemid":19,"npgid":4,"evid":"clickItem","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_294","type":"event","ts":1605616554793}
+2020-11-17 19:44:33,454 - {"area":"guangdong","uid":"405","itemid":16,"npgid":38,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_294","type":"event","ts":1605627402306}
+2020-11-17 19:44:34,456 - {"area":"guangdong","uid":"69","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_353","type":"startup","vs":"1.1.1","ts":1605623369665}
+2020-11-17 19:44:34,458 - {"area":"guangdong","uid":"69","itemid":36,"npgid":34,"evid":"clickItem","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_353","type":"event","ts":1605614572846}
+2020-11-17 19:44:34,459 - {"area":"guangdong","uid":"69","itemid":46,"npgid":39,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_353","type":"event","ts":1605624968522}
+2020-11-17 19:44:35,461 - {"area":"heilongjiang","uid":"278","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_338","type":"startup","vs":"1.2.0","ts":1605630558183}
+2020-11-17 19:44:35,464 - {"area":"heilongjiang","uid":"278","itemid":25,"npgid":37,"evid":"addComment","os":"ios","pgid":9,"appid":"data2020","mid":"mid_338","type":"event","ts":1605625761955}
+2020-11-17 19:44:35,467 - {"area":"heilongjiang","uid":"278","itemid":44,"npgid":14,"evid":"clickItem","os":"ios","pgid":45,"appid":"data2020","mid":"mid_338","type":"event","ts":1605614853057}
+2020-11-17 19:44:35,469 - {"area":"heilongjiang","uid":"278","itemid":44,"npgid":41,"evid":"addComment","os":"ios","pgid":18,"appid":"data2020","mid":"mid_338","type":"event","ts":1605627973879}
+2020-11-17 19:44:35,472 - {"area":"heilongjiang","uid":"278","itemid":12,"npgid":31,"evid":"clickItem","os":"ios","pgid":21,"appid":"data2020","mid":"mid_338","type":"event","ts":1605628886911}
+2020-11-17 19:44:35,474 - {"area":"heilongjiang","uid":"278","itemid":32,"npgid":16,"evid":"addComment","os":"ios","pgid":4,"appid":"data2020","mid":"mid_338","type":"event","ts":1605623625481}
+2020-11-17 19:44:35,477 - {"area":"heilongjiang","uid":"278","itemid":35,"npgid":7,"evid":"addCart","os":"ios","pgid":46,"appid":"data2020","mid":"mid_338","type":"event","ts":1605623000507}
+2020-11-17 19:44:35,479 - {"area":"heilongjiang","uid":"278","itemid":32,"npgid":6,"evid":"addComment","os":"ios","pgid":39,"appid":"data2020","mid":"mid_338","type":"event","ts":1605621110677}
+2020-11-17 19:44:35,482 - {"area":"heilongjiang","uid":"278","itemid":26,"npgid":17,"evid":"addCart","os":"ios","pgid":21,"appid":"data2020","mid":"mid_338","type":"event","ts":1605617821826}
+2020-11-17 19:44:35,485 - {"area":"heilongjiang","uid":"278","itemid":9,"npgid":48,"evid":"clickItem","os":"ios","pgid":20,"appid":"data2020","mid":"mid_338","type":"event","ts":1605621231668}
+2020-11-17 19:44:35,487 - {"area":"heilongjiang","uid":"278","itemid":22,"npgid":11,"evid":"addComment","os":"ios","pgid":2,"appid":"data2020","mid":"mid_338","type":"event","ts":1605629233794}
+2020-11-17 19:44:36,494 - {"area":"guangdong","uid":"165","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_54","type":"startup","vs":"1.1.3","ts":1605615905930}
+2020-11-17 19:44:36,499 - {"area":"guangdong","uid":"165","itemid":5,"npgid":5,"evid":"addComment","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_54","type":"event","ts":1605624499754}
+2020-11-17 19:44:36,502 - {"area":"guangdong","uid":"165","itemid":22,"npgid":5,"evid":"addComment","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_54","type":"event","ts":1605624833875}
+2020-11-17 19:44:36,505 - {"area":"guangdong","uid":"165","itemid":11,"npgid":23,"evid":"clickItem","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_54","type":"event","ts":1605629627041}
+2020-11-17 19:44:36,507 - {"area":"guangdong","uid":"165","itemid":19,"npgid":6,"evid":"clickItem","os":"andriod","pgid":12,"appid":"data2020","mid":"mid_54","type":"event","ts":1605627195239}
+2020-11-17 19:44:36,509 - {"area":"guangdong","uid":"165","itemid":11,"npgid":43,"evid":"addCart","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_54","type":"event","ts":1605625283870}
+2020-11-17 19:44:36,511 - {"area":"guangdong","uid":"165","itemid":32,"npgid":19,"evid":"addComment","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_54","type":"event","ts":1605627756030}
+2020-11-17 19:44:36,514 - {"area":"guangdong","uid":"165","itemid":1,"npgid":32,"evid":"clickItem","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_54","type":"event","ts":1605631000498}
+2020-11-17 19:44:36,516 - {"area":"guangdong","uid":"165","itemid":15,"npgid":46,"evid":"clickItem","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_54","type":"event","ts":1605624320288}
+2020-11-17 19:44:36,518 - {"area":"guangdong","uid":"165","itemid":25,"npgid":47,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_54","type":"event","ts":1605628727401}
+2020-11-17 19:44:36,520 - {"area":"guangdong","uid":"165","itemid":30,"npgid":4,"evid":"clickItem","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_54","type":"event","ts":1605615003003}
+2020-11-17 19:44:36,523 - {"area":"guangdong","uid":"165","itemid":27,"npgid":50,"evid":"addComment","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_54","type":"event","ts":1605616330243}
+2020-11-17 19:44:36,525 - {"area":"guangdong","uid":"165","itemid":42,"npgid":40,"evid":"addCart","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_54","type":"event","ts":1605619659804}
+2020-11-17 19:44:36,527 - {"area":"guangdong","uid":"165","itemid":34,"npgid":10,"evid":"addFavor","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_54","type":"event","ts":1605614008824}
+2020-11-17 19:44:36,529 - {"area":"guangdong","uid":"165","itemid":30,"npgid":36,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_54","type":"event","ts":1605626085082}
+2020-11-17 19:44:36,531 - {"area":"guangdong","uid":"165","itemid":49,"npgid":50,"evid":"addCart","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_54","type":"event","ts":1605626026014}
+2020-11-17 19:44:36,533 - {"area":"guangdong","uid":"165","itemid":42,"npgid":36,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_54","type":"event","ts":1605613547802}
+2020-11-17 19:44:36,536 - {"area":"guangdong","uid":"165","itemid":12,"npgid":49,"evid":"addCart","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_54","type":"event","ts":1605620104531}
+2020-11-17 19:44:36,538 - {"area":"guangdong","uid":"165","itemid":2,"npgid":1,"evid":"addComment","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_54","type":"event","ts":1605627954775}
+2020-11-17 19:44:36,540 - {"area":"guangdong","uid":"165","itemid":24,"npgid":42,"evid":"clickItem","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_54","type":"event","ts":1605628721596}
+2020-11-17 19:44:36,542 - {"area":"guangdong","uid":"165","itemid":45,"npgid":26,"evid":"addFavor","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_54","type":"event","ts":1605624370030}
+2020-11-17 19:44:37,546 - {"area":"sichuan","uid":"476","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_397","type":"startup","vs":"1.2.0","ts":1605615729268}
+2020-11-17 19:44:37,548 - {"area":"sichuan","uid":"476","itemid":15,"npgid":35,"evid":"addComment","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_397","type":"event","ts":1605619188576}
+2020-11-17 19:44:37,550 - {"area":"sichuan","uid":"476","itemid":5,"npgid":14,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_397","type":"event","ts":1605615256611}
+2020-11-17 19:44:37,553 - {"area":"sichuan","uid":"476","itemid":31,"npgid":37,"evid":"addFavor","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_397","type":"event","ts":1605617430415}
+2020-11-17 19:44:37,555 - {"area":"sichuan","uid":"476","itemid":36,"npgid":50,"evid":"addComment","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_397","type":"event","ts":1605616177457}
+2020-11-17 19:44:37,557 - {"area":"sichuan","uid":"476","itemid":19,"npgid":6,"evid":"addCart","os":"andriod","pgid":15,"appid":"data2020","mid":"mid_397","type":"event","ts":1605619399509}
+2020-11-17 19:44:37,559 - {"area":"sichuan","uid":"476","itemid":27,"npgid":30,"evid":"clickItem","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_397","type":"event","ts":1605621851945}
+2020-11-17 19:44:37,561 - {"area":"sichuan","uid":"476","itemid":49,"npgid":22,"evid":"addCart","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_397","type":"event","ts":1605627552620}
+2020-11-17 19:44:37,563 - {"area":"sichuan","uid":"476","itemid":35,"npgid":32,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_397","type":"event","ts":1605613998972}
+2020-11-17 19:44:38,566 - {"area":"beijing","uid":"22","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_299","type":"startup","vs":"1.2.0","ts":1605617695791}
+2020-11-17 19:44:38,568 - {"area":"beijing","uid":"22","itemid":21,"npgid":34,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_299","type":"event","ts":1605615462153}
+2020-11-17 19:44:38,570 - {"area":"beijing","uid":"22","itemid":12,"npgid":6,"evid":"clickItem","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_299","type":"event","ts":1605622859811}
+2020-11-17 19:44:38,573 - {"area":"beijing","uid":"22","itemid":39,"npgid":39,"evid":"clickItem","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_299","type":"event","ts":1605625485329}
+2020-11-17 19:44:38,575 - {"area":"beijing","uid":"22","itemid":35,"npgid":41,"evid":"addComment","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_299","type":"event","ts":1605624795381}
+2020-11-17 19:44:39,579 - {"area":"guangdong","uid":"3","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_77","type":"startup","vs":"1.1.2","ts":1605617530874}
+2020-11-17 19:44:39,581 - {"area":"guangdong","uid":"3","itemid":24,"npgid":26,"evid":"addComment","os":"ios","pgid":12,"appid":"data2020","mid":"mid_77","type":"event","ts":1605622892632}
+2020-11-17 19:44:40,583 - {"area":"shanghai","uid":"325","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_317","type":"startup","vs":"1.1.3","ts":1605629221538}
+2020-11-17 19:44:40,585 - {"area":"shanghai","uid":"325","itemid":6,"npgid":10,"evid":"addCart","os":"ios","pgid":8,"appid":"data2020","mid":"mid_317","type":"event","ts":1605617949287}
+2020-11-17 19:44:40,587 - {"area":"shanghai","uid":"325","itemid":9,"npgid":14,"evid":"clickItem","os":"ios","pgid":31,"appid":"data2020","mid":"mid_317","type":"event","ts":1605622950306}
+2020-11-17 19:44:40,589 - {"area":"shanghai","uid":"325","itemid":4,"npgid":23,"evid":"clickItem","os":"ios","pgid":13,"appid":"data2020","mid":"mid_317","type":"event","ts":1605623641389}
+2020-11-17 19:44:40,591 - {"area":"shanghai","uid":"325","itemid":47,"npgid":26,"evid":"addCart","os":"ios","pgid":4,"appid":"data2020","mid":"mid_317","type":"event","ts":1605629782691}
+2020-11-17 19:44:40,592 - {"area":"shanghai","uid":"325","itemid":46,"npgid":8,"evid":"addComment","os":"ios","pgid":20,"appid":"data2020","mid":"mid_317","type":"event","ts":1605618846072}
+2020-11-17 19:44:40,594 - {"area":"shanghai","uid":"325","itemid":35,"npgid":21,"evid":"addCart","os":"ios","pgid":1,"appid":"data2020","mid":"mid_317","type":"event","ts":1605619144488}
+2020-11-17 19:44:40,597 - {"area":"shanghai","uid":"325","itemid":32,"npgid":27,"evid":"clickItem","os":"ios","pgid":6,"appid":"data2020","mid":"mid_317","type":"event","ts":1605630994261}
+2020-11-17 19:44:40,598 - {"area":"shanghai","uid":"325","itemid":47,"npgid":32,"evid":"addComment","os":"ios","pgid":21,"appid":"data2020","mid":"mid_317","type":"event","ts":1605628289648}
+2020-11-17 19:44:40,600 - {"area":"shanghai","uid":"325","itemid":8,"npgid":27,"evid":"clickItem","os":"ios","pgid":20,"appid":"data2020","mid":"mid_317","type":"event","ts":1605618380154}
+2020-11-17 19:44:40,602 - {"area":"shanghai","uid":"325","itemid":14,"npgid":35,"evid":"addComment","os":"ios","pgid":31,"appid":"data2020","mid":"mid_317","type":"event","ts":1605621494391}
+2020-11-17 19:44:40,603 - {"area":"shanghai","uid":"325","itemid":48,"npgid":23,"evid":"clickItem","os":"ios","pgid":29,"appid":"data2020","mid":"mid_317","type":"event","ts":1605615964965}
+2020-11-17 19:44:40,605 - {"area":"shanghai","uid":"325","itemid":22,"npgid":45,"evid":"clickItem","os":"ios","pgid":40,"appid":"data2020","mid":"mid_317","type":"event","ts":1605631182396}
+2020-11-17 19:44:41,607 - {"area":"shandong","uid":"54","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_317","type":"startup","vs":"1.1.2","ts":1605621203031}
+2020-11-17 19:44:41,609 - {"area":"shandong","uid":"54","itemid":25,"npgid":13,"evid":"clickItem","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_317","type":"event","ts":1605618398709}
+2020-11-17 19:44:41,610 - {"area":"shandong","uid":"54","itemid":0,"npgid":3,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_317","type":"event","ts":1605630542211}
+2020-11-17 19:44:41,611 - {"area":"shandong","uid":"54","itemid":41,"npgid":21,"evid":"addCart","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_317","type":"event","ts":1605628590185}
+2020-11-17 19:44:42,614 - {"area":"beijing","uid":"66","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_232","type":"startup","vs":"1.1.3","ts":1605615548090}
+2020-11-17 19:44:42,616 - {"area":"beijing","uid":"66","itemid":10,"npgid":21,"evid":"addCart","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_232","type":"event","ts":1605620763235}
+2020-11-17 19:44:43,618 - {"area":"shandong","uid":"279","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_437","type":"startup","vs":"1.1.3","ts":1605627661450}
+2020-11-17 19:44:44,621 - {"area":"shan1xi","uid":"195","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_284","type":"startup","vs":"1.2.0","ts":1605628588964}
+2020-11-17 19:44:44,624 - {"area":"shan1xi","uid":"195","itemid":37,"npgid":43,"evid":"clickItem","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_284","type":"event","ts":1605628408650}
+2020-11-17 19:44:44,626 - {"area":"shan1xi","uid":"195","itemid":8,"npgid":34,"evid":"clickItem","os":"andriod","pgid":31,"appid":"data2020","mid":"mid_284","type":"event","ts":1605619288745}
+2020-11-17 19:44:44,628 - {"area":"shan1xi","uid":"195","itemid":16,"npgid":12,"evid":"clickItem","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_284","type":"event","ts":1605617179858}
+2020-11-17 19:44:45,630 - {"area":"guangdong","uid":"370","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_221","type":"startup","vs":"1.2.0","ts":1605615500168}
+2020-11-17 19:44:45,633 - {"area":"guangdong","uid":"370","itemid":8,"npgid":2,"evid":"clickItem","os":"ios","pgid":42,"appid":"data2020","mid":"mid_221","type":"event","ts":1605629955598}
+2020-11-17 19:44:45,635 - {"area":"guangdong","uid":"370","itemid":11,"npgid":28,"evid":"clickItem","os":"ios","pgid":15,"appid":"data2020","mid":"mid_221","type":"event","ts":1605615122779}
+2020-11-17 19:44:45,637 - {"area":"guangdong","uid":"370","itemid":29,"npgid":15,"evid":"clickItem","os":"ios","pgid":15,"appid":"data2020","mid":"mid_221","type":"event","ts":1605626886586}
+2020-11-17 19:44:45,640 - {"area":"guangdong","uid":"370","itemid":22,"npgid":37,"evid":"clickItem","os":"ios","pgid":20,"appid":"data2020","mid":"mid_221","type":"event","ts":1605621659253}
+2020-11-17 19:44:45,643 - {"area":"guangdong","uid":"370","itemid":0,"npgid":8,"evid":"clickItem","os":"ios","pgid":3,"appid":"data2020","mid":"mid_221","type":"event","ts":1605624231331}
+2020-11-17 19:44:45,644 - {"area":"guangdong","uid":"370","itemid":47,"npgid":20,"evid":"clickItem","os":"ios","pgid":9,"appid":"data2020","mid":"mid_221","type":"event","ts":1605618079897}
+2020-11-17 19:44:45,646 - {"area":"guangdong","uid":"370","itemid":5,"npgid":18,"evid":"clickItem","os":"ios","pgid":20,"appid":"data2020","mid":"mid_221","type":"event","ts":1605624531757}
+2020-11-17 19:44:45,648 - {"area":"guangdong","uid":"370","itemid":43,"npgid":50,"evid":"clickItem","os":"ios","pgid":40,"appid":"data2020","mid":"mid_221","type":"event","ts":1605631383272}
+2020-11-17 19:44:45,650 - {"area":"guangdong","uid":"370","itemid":28,"npgid":38,"evid":"clickItem","os":"ios","pgid":3,"appid":"data2020","mid":"mid_221","type":"event","ts":1605624282050}
+2020-11-17 19:44:46,652 - {"area":"beijing","uid":"317","os":"andriod","ch":"360","appid":"data2020","mid":"mid_285","type":"startup","vs":"1.1.3","ts":1605615304077}
+2020-11-17 19:44:46,654 - {"area":"beijing","uid":"317","itemid":39,"npgid":1,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_285","type":"event","ts":1605622409391}
+2020-11-17 19:44:46,659 - {"area":"beijing","uid":"317","itemid":37,"npgid":9,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_285","type":"event","ts":1605626325968}
+2020-11-17 19:44:46,662 - {"area":"beijing","uid":"317","itemid":42,"npgid":6,"evid":"clickItem","os":"andriod","pgid":14,"appid":"data2020","mid":"mid_285","type":"event","ts":1605629888065}
+2020-11-17 19:44:46,664 - {"area":"beijing","uid":"317","itemid":1,"npgid":15,"evid":"addCart","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_285","type":"event","ts":1605615751614}
+2020-11-17 19:44:47,667 - {"area":"guangdong","uid":"432","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_469","type":"startup","vs":"1.2.0","ts":1605625230017}
+2020-11-17 19:44:47,670 - {"area":"guangdong","uid":"432","itemid":3,"npgid":16,"evid":"addCart","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_469","type":"event","ts":1605631141038}
+2020-11-17 19:44:47,672 - {"area":"guangdong","uid":"432","itemid":47,"npgid":31,"evid":"clickItem","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_469","type":"event","ts":1605618560908}
+2020-11-17 19:44:47,674 - {"area":"guangdong","uid":"432","itemid":47,"npgid":29,"evid":"clickItem","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_469","type":"event","ts":1605623338549}
+2020-11-17 19:44:47,676 - {"area":"guangdong","uid":"432","itemid":27,"npgid":24,"evid":"addCart","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_469","type":"event","ts":1605616452012}
+2020-11-17 19:44:47,678 - {"area":"guangdong","uid":"432","itemid":5,"npgid":29,"evid":"clickItem","os":"andriod","pgid":47,"appid":"data2020","mid":"mid_469","type":"event","ts":1605618584766}
+2020-11-17 19:44:47,680 - {"area":"guangdong","uid":"432","itemid":30,"npgid":16,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_469","type":"event","ts":1605614175404}
+2020-11-17 19:44:47,682 - {"area":"guangdong","uid":"432","itemid":30,"npgid":10,"evid":"clickItem","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_469","type":"event","ts":1605626173253}
+2020-11-17 19:44:47,684 - {"area":"guangdong","uid":"432","itemid":18,"npgid":4,"evid":"addCart","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_469","type":"event","ts":1605616766047}
+2020-11-17 19:44:47,686 - {"area":"guangdong","uid":"432","itemid":33,"npgid":21,"evid":"clickItem","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_469","type":"event","ts":1605619465575}
+2020-11-17 19:44:47,688 - {"area":"guangdong","uid":"432","itemid":41,"npgid":50,"evid":"clickItem","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_469","type":"event","ts":1605631462289}
+2020-11-17 19:44:47,690 - {"area":"guangdong","uid":"432","itemid":27,"npgid":9,"evid":"addComment","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_469","type":"event","ts":1605622543318}
+2020-11-17 19:44:47,692 - {"area":"guangdong","uid":"432","itemid":27,"npgid":23,"evid":"addComment","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_469","type":"event","ts":1605629992825}
+2020-11-17 19:44:47,694 - {"area":"guangdong","uid":"432","itemid":20,"npgid":35,"evid":"addComment","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_469","type":"event","ts":1605619809048}
+2020-11-17 19:44:47,696 - {"area":"guangdong","uid":"432","itemid":7,"npgid":36,"evid":"clickItem","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_469","type":"event","ts":1605627013402}
+2020-11-17 19:44:47,698 - {"area":"guangdong","uid":"432","itemid":28,"npgid":9,"evid":"addComment","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_469","type":"event","ts":1605617747059}
+2020-11-17 19:44:48,701 - {"area":"guangdong","uid":"174","os":"andriod","ch":"360","appid":"data2020","mid":"mid_417","type":"startup","vs":"1.1.2","ts":1605630569698}
+2020-11-17 19:44:48,703 - {"area":"guangdong","uid":"174","itemid":28,"npgid":4,"evid":"addCart","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_417","type":"event","ts":1605626138826}
+2020-11-17 19:44:49,706 - {"area":"guangdong","uid":"337","os":"andriod","ch":"360","appid":"data2020","mid":"mid_434","type":"startup","vs":"1.1.1","ts":1605630257087}
+2020-11-17 19:44:49,708 - {"area":"guangdong","uid":"337","itemid":49,"npgid":49,"evid":"addComment","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_434","type":"event","ts":1605618217610}
+2020-11-17 19:44:50,711 - {"area":"shan1xi","uid":"456","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_497","type":"startup","vs":"1.1.3","ts":1605627726824}
+2020-11-17 19:44:50,713 - {"area":"shan1xi","uid":"456","itemid":28,"npgid":46,"evid":"clickItem","os":"ios","pgid":3,"appid":"data2020","mid":"mid_497","type":"event","ts":1605631127388}
+2020-11-17 19:44:50,715 - {"area":"shan1xi","uid":"456","itemid":43,"npgid":38,"evid":"clickItem","os":"ios","pgid":35,"appid":"data2020","mid":"mid_497","type":"event","ts":1605614130508}
+2020-11-17 19:44:50,717 - {"area":"shan1xi","uid":"456","itemid":4,"npgid":41,"evid":"addComment","os":"ios","pgid":36,"appid":"data2020","mid":"mid_497","type":"event","ts":1605629304574}
+2020-11-17 19:44:50,719 - {"area":"shan1xi","uid":"456","itemid":32,"npgid":25,"evid":"addComment","os":"ios","pgid":46,"appid":"data2020","mid":"mid_497","type":"event","ts":1605629774144}
+2020-11-17 19:44:50,722 - {"area":"shan1xi","uid":"456","itemid":26,"npgid":1,"evid":"clickItem","os":"ios","pgid":12,"appid":"data2020","mid":"mid_497","type":"event","ts":1605620856419}
+2020-11-17 19:44:50,723 - {"area":"shan1xi","uid":"456","itemid":34,"npgid":2,"evid":"addCart","os":"ios","pgid":48,"appid":"data2020","mid":"mid_497","type":"event","ts":1605616757876}
+2020-11-17 19:44:50,726 - {"area":"shan1xi","uid":"456","itemid":23,"npgid":44,"evid":"addComment","os":"ios","pgid":17,"appid":"data2020","mid":"mid_497","type":"event","ts":1605614691772}
+2020-11-17 19:44:50,728 - {"area":"shan1xi","uid":"456","itemid":17,"npgid":13,"evid":"addCart","os":"ios","pgid":34,"appid":"data2020","mid":"mid_497","type":"event","ts":1605620955171}
+2020-11-17 19:44:50,730 - {"area":"shan1xi","uid":"456","itemid":32,"npgid":6,"evid":"addCart","os":"ios","pgid":46,"appid":"data2020","mid":"mid_497","type":"event","ts":1605629766677}
+2020-11-17 19:44:50,732 - {"area":"shan1xi","uid":"456","itemid":40,"npgid":32,"evid":"addComment","os":"ios","pgid":43,"appid":"data2020","mid":"mid_497","type":"event","ts":1605629547191}
+2020-11-17 19:44:50,734 - {"area":"shan1xi","uid":"456","itemid":14,"npgid":30,"evid":"clickItem","os":"ios","pgid":5,"appid":"data2020","mid":"mid_497","type":"event","ts":1605624824299}
+2020-11-17 19:44:50,736 - {"area":"shan1xi","uid":"456","itemid":37,"npgid":39,"evid":"addComment","os":"ios","pgid":18,"appid":"data2020","mid":"mid_497","type":"event","ts":1605617229441}
+2020-11-17 19:44:50,738 - {"area":"shan1xi","uid":"456","itemid":22,"npgid":28,"evid":"addCart","os":"ios","pgid":33,"appid":"data2020","mid":"mid_497","type":"event","ts":1605622414471}
+2020-11-17 19:44:51,741 - {"area":"guangdong","uid":"382","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_452","type":"startup","vs":"1.1.2","ts":1605621964040}
+2020-11-17 19:44:51,743 - {"area":"guangdong","uid":"382","itemid":8,"npgid":29,"evid":"addCart","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_452","type":"event","ts":1605621112536}
+2020-11-17 19:44:51,745 - {"area":"guangdong","uid":"382","itemid":32,"npgid":35,"evid":"clickItem","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_452","type":"event","ts":1605626481540}
+2020-11-17 19:44:51,747 - {"area":"guangdong","uid":"382","itemid":21,"npgid":41,"evid":"addCart","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_452","type":"event","ts":1605617586103}
+2020-11-17 19:44:51,749 - {"area":"guangdong","uid":"382","itemid":16,"npgid":10,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_452","type":"event","ts":1605618896264}
+2020-11-17 19:44:52,751 - {"area":"guangdong","uid":"143","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_236","type":"startup","vs":"1.1.2","ts":1605627646330}
+2020-11-17 19:44:52,753 - {"area":"guangdong","uid":"143","itemid":27,"npgid":32,"evid":"addComment","os":"ios","pgid":36,"appid":"data2020","mid":"mid_236","type":"event","ts":1605620060332}
+2020-11-17 19:44:52,755 - {"area":"guangdong","uid":"143","itemid":14,"npgid":15,"evid":"clickItem","os":"ios","pgid":46,"appid":"data2020","mid":"mid_236","type":"event","ts":1605619168047}
+2020-11-17 19:44:53,758 - {"area":"beijing","uid":"219","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_340","type":"startup","vs":"1.1.2","ts":1605628334297}
+2020-11-17 19:44:53,759 - {"area":"beijing","uid":"219","itemid":2,"npgid":44,"evid":"addCart","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_340","type":"event","ts":1605614146406}
+2020-11-17 19:44:53,761 - {"area":"beijing","uid":"219","itemid":8,"npgid":45,"evid":"addComment","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_340","type":"event","ts":1605630849935}
+2020-11-17 19:44:53,763 - {"area":"beijing","uid":"219","itemid":49,"npgid":24,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_340","type":"event","ts":1605621265846}
+2020-11-17 19:44:53,764 - {"area":"beijing","uid":"219","itemid":20,"npgid":21,"evid":"clickItem","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_340","type":"event","ts":1605630280956}
+2020-11-17 19:44:53,765 - {"area":"beijing","uid":"219","itemid":29,"npgid":24,"evid":"clickItem","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_340","type":"event","ts":1605614766577}
+2020-11-17 19:44:53,767 - {"area":"beijing","uid":"219","itemid":23,"npgid":23,"evid":"addCart","os":"andriod","pgid":47,"appid":"data2020","mid":"mid_340","type":"event","ts":1605620775436}
+2020-11-17 19:44:53,768 - {"area":"beijing","uid":"219","itemid":32,"npgid":9,"evid":"addCart","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_340","type":"event","ts":1605621700831}
+2020-11-17 19:44:53,771 - {"area":"beijing","uid":"219","itemid":0,"npgid":18,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_340","type":"event","ts":1605617346557}
+2020-11-17 19:44:53,772 - {"area":"beijing","uid":"219","itemid":28,"npgid":20,"evid":"addComment","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_340","type":"event","ts":1605630243043}
+2020-11-17 19:44:53,774 - {"area":"beijing","uid":"219","itemid":45,"npgid":6,"evid":"addComment","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_340","type":"event","ts":1605617422799}
+2020-11-17 19:44:53,776 - {"area":"beijing","uid":"219","itemid":15,"npgid":27,"evid":"addCart","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_340","type":"event","ts":1605630398776}
+2020-11-17 19:44:53,777 - {"area":"beijing","uid":"219","itemid":7,"npgid":34,"evid":"addCart","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_340","type":"event","ts":1605618548316}
+2020-11-17 19:44:53,778 - {"area":"beijing","uid":"219","itemid":21,"npgid":16,"evid":"addComment","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_340","type":"event","ts":1605631164549}
+2020-11-17 19:44:53,780 - {"area":"beijing","uid":"219","itemid":45,"npgid":44,"evid":"addFavor","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_340","type":"event","ts":1605614584018}
+2020-11-17 19:44:53,781 - {"area":"beijing","uid":"219","itemid":30,"npgid":31,"evid":"addFavor","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_340","type":"event","ts":1605614067870}
+2020-11-17 19:44:53,782 - {"area":"beijing","uid":"219","itemid":9,"npgid":26,"evid":"addFavor","os":"andriod","pgid":35,"appid":"data2020","mid":"mid_340","type":"event","ts":1605614782384}
+2020-11-17 19:44:53,783 - {"area":"beijing","uid":"219","itemid":5,"npgid":31,"evid":"clickItem","os":"andriod","pgid":14,"appid":"data2020","mid":"mid_340","type":"event","ts":1605631327769}
+2020-11-17 19:44:53,784 - {"area":"beijing","uid":"219","itemid":27,"npgid":24,"evid":"clickItem","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_340","type":"event","ts":1605628651710}
+2020-11-17 19:44:53,785 - {"area":"beijing","uid":"219","itemid":18,"npgid":45,"evid":"addCart","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_340","type":"event","ts":1605615123314}
+2020-11-17 19:44:54,788 - {"area":"beijing","uid":"447","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_260","type":"startup","vs":"1.1.3","ts":1605628181822}
+2020-11-17 19:44:54,790 - {"area":"beijing","uid":"447","itemid":18,"npgid":1,"evid":"addComment","os":"ios","pgid":33,"appid":"data2020","mid":"mid_260","type":"event","ts":1605615064922}
+2020-11-17 19:44:54,792 - {"area":"beijing","uid":"447","itemid":32,"npgid":10,"evid":"addComment","os":"ios","pgid":42,"appid":"data2020","mid":"mid_260","type":"event","ts":1605630677784}
+2020-11-17 19:44:54,794 - {"area":"beijing","uid":"447","itemid":47,"npgid":45,"evid":"clickItem","os":"ios","pgid":31,"appid":"data2020","mid":"mid_260","type":"event","ts":1605618346974}
+2020-11-17 19:44:54,796 - {"area":"beijing","uid":"447","itemid":48,"npgid":27,"evid":"clickItem","os":"ios","pgid":36,"appid":"data2020","mid":"mid_260","type":"event","ts":1605624197461}
+2020-11-17 19:44:54,798 - {"area":"beijing","uid":"447","itemid":8,"npgid":23,"evid":"addCart","os":"ios","pgid":32,"appid":"data2020","mid":"mid_260","type":"event","ts":1605631472168}
+2020-11-17 19:44:54,800 - {"area":"beijing","uid":"447","itemid":1,"npgid":28,"evid":"addFavor","os":"ios","pgid":16,"appid":"data2020","mid":"mid_260","type":"event","ts":1605618080454}
+2020-11-17 19:44:54,802 - {"area":"beijing","uid":"447","itemid":18,"npgid":45,"evid":"addComment","os":"ios","pgid":23,"appid":"data2020","mid":"mid_260","type":"event","ts":1605621200446}
+2020-11-17 19:44:54,804 - {"area":"beijing","uid":"447","itemid":9,"npgid":8,"evid":"clickItem","os":"ios","pgid":10,"appid":"data2020","mid":"mid_260","type":"event","ts":1605618245422}
+2020-11-17 19:44:55,806 - {"area":"guangdong","uid":"205","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_311","type":"startup","vs":"1.1.3","ts":1605627774677}
+2020-11-17 19:44:55,809 - {"area":"guangdong","uid":"205","itemid":46,"npgid":39,"evid":"addCart","os":"ios","pgid":34,"appid":"data2020","mid":"mid_311","type":"event","ts":1605618586939}
+2020-11-17 19:44:55,811 - {"area":"guangdong","uid":"205","itemid":21,"npgid":26,"evid":"addComment","os":"ios","pgid":25,"appid":"data2020","mid":"mid_311","type":"event","ts":1605630857966}
+2020-11-17 19:44:55,813 - {"area":"guangdong","uid":"205","itemid":1,"npgid":8,"evid":"clickItem","os":"ios","pgid":22,"appid":"data2020","mid":"mid_311","type":"event","ts":1605617554473}
+2020-11-17 19:44:56,815 - {"area":"shandong","uid":"148","os":"andriod","ch":"360","appid":"data2020","mid":"mid_303","type":"startup","vs":"1.2.0","ts":1605621374556}
+2020-11-17 19:44:56,818 - {"area":"shandong","uid":"148","itemid":2,"npgid":34,"evid":"clickItem","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_303","type":"event","ts":1605623313221}
+2020-11-17 19:44:57,820 - {"area":"guangdong","uid":"172","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_266","type":"startup","vs":"1.1.2","ts":1605627866054}
+2020-11-17 19:44:57,823 - {"area":"guangdong","uid":"172","itemid":6,"npgid":25,"evid":"addFavor","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_266","type":"event","ts":1605618005427}
+2020-11-17 19:44:57,825 - {"area":"guangdong","uid":"172","itemid":2,"npgid":24,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_266","type":"event","ts":1605629568288}
+2020-11-17 19:44:57,827 - {"area":"guangdong","uid":"172","itemid":18,"npgid":13,"evid":"clickItem","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_266","type":"event","ts":1605631162781}
+2020-11-17 19:44:58,829 - {"area":"beijing","uid":"200","os":"andriod","ch":"360","appid":"data2020","mid":"mid_393","type":"startup","vs":"1.1.3","ts":1605629448435}
+2020-11-17 19:44:59,832 - {"area":"shanghai","uid":"417","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_99","type":"startup","vs":"1.2.0","ts":1605624860110}
+2020-11-17 19:44:59,834 - {"area":"shanghai","uid":"417","itemid":7,"npgid":23,"evid":"clickItem","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_99","type":"event","ts":1605626331696}
+2020-11-17 19:45:00,836 - {"area":"shan1xi","uid":"71","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_302","type":"startup","vs":"1.2.0","ts":1605620787347}
+2020-11-17 19:45:00,839 - {"area":"shan1xi","uid":"71","itemid":38,"npgid":42,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_302","type":"event","ts":1605630834815}
+2020-11-17 19:45:00,841 - {"area":"shan1xi","uid":"71","itemid":37,"npgid":11,"evid":"addComment","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_302","type":"event","ts":1605620681135}
+2020-11-17 19:45:00,843 - {"area":"shan1xi","uid":"71","itemid":47,"npgid":42,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_302","type":"event","ts":1605626507641}
+2020-11-17 19:45:00,845 - {"area":"shan1xi","uid":"71","itemid":35,"npgid":45,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_302","type":"event","ts":1605615025512}
+2020-11-17 19:45:01,847 - {"area":"guangdong","uid":"199","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_207","type":"startup","vs":"1.1.3","ts":1605619463075}
+2020-11-17 19:45:02,852 - {"area":"guangdong","uid":"124","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_25","type":"startup","vs":"1.2.0","ts":1605621054630}
+2020-11-17 19:45:03,854 - {"area":"beijing","uid":"439","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_352","type":"startup","vs":"1.2.0","ts":1605621444721}
+2020-11-17 19:45:03,857 - {"area":"beijing","uid":"439","itemid":43,"npgid":14,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_352","type":"event","ts":1605625148576}
+2020-11-17 19:45:03,858 - {"area":"beijing","uid":"439","itemid":25,"npgid":4,"evid":"addComment","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_352","type":"event","ts":1605625166232}
+2020-11-17 19:45:04,861 - {"area":"heilongjiang","uid":"51","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_434","type":"startup","vs":"1.1.3","ts":1605618841586}
+2020-11-17 19:45:04,863 - {"area":"heilongjiang","uid":"51","itemid":23,"npgid":47,"evid":"addCart","os":"ios","pgid":34,"appid":"data2020","mid":"mid_434","type":"event","ts":1605626434825}
+2020-11-17 19:45:04,865 - {"area":"heilongjiang","uid":"51","itemid":43,"npgid":33,"evid":"addCart","os":"ios","pgid":20,"appid":"data2020","mid":"mid_434","type":"event","ts":1605627390218}
+2020-11-17 19:45:04,869 - {"area":"heilongjiang","uid":"51","itemid":19,"npgid":8,"evid":"addCart","os":"ios","pgid":50,"appid":"data2020","mid":"mid_434","type":"event","ts":1605623950053}
+2020-11-17 19:45:04,871 - {"area":"heilongjiang","uid":"51","itemid":24,"npgid":47,"evid":"addComment","os":"ios","pgid":46,"appid":"data2020","mid":"mid_434","type":"event","ts":1605625758825}
+2020-11-17 19:45:05,873 - {"area":"beijing","uid":"430","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_395","type":"startup","vs":"1.2.0","ts":1605623493749}
+2020-11-17 19:45:06,875 - {"area":"guangdong","uid":"297","os":"andriod","ch":"xiaomi","appid":"data2020","mid":"mid_172","type":"startup","vs":"1.1.2","ts":1605628016624}
+2020-11-17 19:45:06,878 - {"area":"guangdong","uid":"297","itemid":18,"npgid":10,"evid":"clickItem","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_172","type":"event","ts":1605616019321}
+2020-11-17 19:45:06,880 - {"area":"guangdong","uid":"297","itemid":24,"npgid":13,"evid":"clickItem","os":"andriod","pgid":7,"appid":"data2020","mid":"mid_172","type":"event","ts":1605618086494}
+2020-11-17 19:45:06,882 - {"area":"guangdong","uid":"297","itemid":19,"npgid":42,"evid":"clickItem","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_172","type":"event","ts":1605631178708}
+2020-11-17 19:45:06,884 - {"area":"guangdong","uid":"297","itemid":26,"npgid":4,"evid":"addComment","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_172","type":"event","ts":1605618454416}
+2020-11-17 19:45:06,886 - {"area":"guangdong","uid":"297","itemid":40,"npgid":7,"evid":"addCart","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_172","type":"event","ts":1605629927255}
+2020-11-17 19:45:06,888 - {"area":"guangdong","uid":"297","itemid":34,"npgid":25,"evid":"clickItem","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_172","type":"event","ts":1605619137723}
+2020-11-17 19:45:06,889 - {"area":"guangdong","uid":"297","itemid":36,"npgid":40,"evid":"addCart","os":"andriod","pgid":14,"appid":"data2020","mid":"mid_172","type":"event","ts":1605616783160}
+2020-11-17 19:45:06,891 - {"area":"guangdong","uid":"297","itemid":22,"npgid":43,"evid":"clickItem","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_172","type":"event","ts":1605618980599}
+2020-11-17 19:45:07,893 - {"area":"guangdong","uid":"54","os":"andriod","ch":"360","appid":"data2020","mid":"mid_146","type":"startup","vs":"1.2.0","ts":1605625217160}
+2020-11-17 19:45:07,896 - {"area":"guangdong","uid":"54","itemid":12,"npgid":26,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_146","type":"event","ts":1605621806457}
+2020-11-17 19:45:07,898 - {"area":"guangdong","uid":"54","itemid":38,"npgid":18,"evid":"clickItem","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_146","type":"event","ts":1605621358979}
+2020-11-17 19:45:07,900 - {"area":"guangdong","uid":"54","itemid":46,"npgid":31,"evid":"addComment","os":"andriod","pgid":10,"appid":"data2020","mid":"mid_146","type":"event","ts":1605626947791}
+2020-11-17 19:45:07,902 - {"area":"guangdong","uid":"54","itemid":43,"npgid":10,"evid":"clickItem","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_146","type":"event","ts":1605624302110}
+2020-11-17 19:45:07,904 - {"area":"guangdong","uid":"54","itemid":22,"npgid":35,"evid":"addFavor","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_146","type":"event","ts":1605630255530}
+2020-11-17 19:45:07,905 - {"area":"guangdong","uid":"54","itemid":8,"npgid":45,"evid":"addComment","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_146","type":"event","ts":1605623064925}
+2020-11-17 19:45:08,907 - {"area":"beijing","uid":"19","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_26","type":"startup","vs":"1.1.3","ts":1605620154637}
+2020-11-17 19:45:08,909 - {"area":"beijing","uid":"19","itemid":9,"npgid":4,"evid":"addComment","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_26","type":"event","ts":1605626598673}
+2020-11-17 19:45:09,914 - {"area":"tianjin","uid":"23","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_482","type":"startup","vs":"1.1.1","ts":1605613654978}
+2020-11-17 19:45:09,916 - {"area":"tianjin","uid":"23","itemid":28,"npgid":16,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_482","type":"event","ts":1605621133483}
+2020-11-17 19:45:09,919 - {"area":"tianjin","uid":"23","itemid":28,"npgid":1,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_482","type":"event","ts":1605621401118}
+2020-11-17 19:45:09,921 - {"area":"tianjin","uid":"23","itemid":20,"npgid":23,"evid":"clickItem","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_482","type":"event","ts":1605624759282}
+2020-11-17 19:45:09,923 - {"area":"tianjin","uid":"23","itemid":15,"npgid":34,"evid":"addFavor","os":"andriod","pgid":45,"appid":"data2020","mid":"mid_482","type":"event","ts":1605627149803}
+2020-11-17 19:45:09,925 - {"area":"tianjin","uid":"23","itemid":0,"npgid":31,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_482","type":"event","ts":1605625923866}
+2020-11-17 19:45:09,927 - {"area":"tianjin","uid":"23","itemid":5,"npgid":36,"evid":"clickItem","os":"andriod","pgid":27,"appid":"data2020","mid":"mid_482","type":"event","ts":1605622216588}
+2020-11-17 19:45:10,929 - {"area":"guangdong","uid":"365","os":"andriod","ch":"website","appid":"data2020","mid":"mid_350","type":"startup","vs":"1.1.1","ts":1605624943500}
+2020-11-17 19:45:11,931 - {"area":"guangdong","uid":"79","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_45","type":"startup","vs":"1.2.0","ts":1605616059424}
+2020-11-17 19:45:11,934 - {"area":"guangdong","uid":"79","itemid":24,"npgid":43,"evid":"clickItem","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_45","type":"event","ts":1605621907550}
+2020-11-17 19:45:11,936 - {"area":"guangdong","uid":"79","itemid":32,"npgid":29,"evid":"clickItem","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_45","type":"event","ts":1605619157400}
+2020-11-17 19:45:11,938 - {"area":"guangdong","uid":"79","itemid":20,"npgid":9,"evid":"clickItem","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_45","type":"event","ts":1605629851040}
+2020-11-17 19:45:12,940 - {"area":"beijing","uid":"491","os":"andriod","ch":"website","appid":"data2020","mid":"mid_36","type":"startup","vs":"1.1.3","ts":1605617887350}
+2020-11-17 19:45:12,942 - {"area":"beijing","uid":"491","itemid":24,"npgid":2,"evid":"addComment","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_36","type":"event","ts":1605620408177}
+2020-11-17 19:45:12,944 - {"area":"beijing","uid":"491","itemid":24,"npgid":20,"evid":"addCart","os":"andriod","pgid":47,"appid":"data2020","mid":"mid_36","type":"event","ts":1605621507604}
+2020-11-17 19:45:12,946 - {"area":"beijing","uid":"491","itemid":10,"npgid":16,"evid":"clickItem","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_36","type":"event","ts":1605627611146}
+2020-11-17 19:45:12,947 - {"area":"beijing","uid":"491","itemid":25,"npgid":30,"evid":"clickItem","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_36","type":"event","ts":1605622860149}
+2020-11-17 19:45:12,949 - {"area":"beijing","uid":"491","itemid":45,"npgid":4,"evid":"addComment","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_36","type":"event","ts":1605630814178}
+2020-11-17 19:45:12,951 - {"area":"beijing","uid":"491","itemid":0,"npgid":16,"evid":"addCart","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_36","type":"event","ts":1605622110264}
+2020-11-17 19:45:12,952 - {"area":"beijing","uid":"491","itemid":22,"npgid":17,"evid":"addFavor","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_36","type":"event","ts":1605622596884}
+2020-11-17 19:45:12,954 - {"area":"beijing","uid":"491","itemid":24,"npgid":35,"evid":"addCart","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_36","type":"event","ts":1605618508607}
+2020-11-17 19:45:12,955 - {"area":"beijing","uid":"491","itemid":36,"npgid":3,"evid":"clickItem","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_36","type":"event","ts":1605627315263}
+2020-11-17 19:45:13,957 - {"area":"guangdong","uid":"309","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_67","type":"startup","vs":"1.1.3","ts":1605618800452}
+2020-11-17 19:45:13,960 - {"area":"guangdong","uid":"309","itemid":32,"npgid":10,"evid":"addFavor","os":"andriod","pgid":23,"appid":"data2020","mid":"mid_67","type":"event","ts":1605626088153}
+2020-11-17 19:45:14,962 - {"area":"guangdong","uid":"119","os":"andriod","ch":"360","appid":"data2020","mid":"mid_17","type":"startup","vs":"1.1.3","ts":1605621876861}
+2020-11-17 19:45:15,964 - {"area":"tianjin","uid":"127","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_228","type":"startup","vs":"1.1.3","ts":1605631060794}
+2020-11-17 19:45:15,967 - {"area":"tianjin","uid":"127","itemid":42,"npgid":34,"evid":"clickItem","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_228","type":"event","ts":1605623694850}
+2020-11-17 19:45:15,969 - {"area":"tianjin","uid":"127","itemid":36,"npgid":39,"evid":"clickItem","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_228","type":"event","ts":1605621401698}
+2020-11-17 19:45:15,971 - {"area":"tianjin","uid":"127","itemid":14,"npgid":14,"evid":"addCart","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_228","type":"event","ts":1605625458048}
+2020-11-17 19:45:16,972 - {"area":"guangdong","uid":"49","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_264","type":"startup","vs":"1.2.0","ts":1605623285436}
+2020-11-17 19:45:17,975 - {"area":"shanghai","uid":"252","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_434","type":"startup","vs":"1.1.3","ts":1605615293715}
+2020-11-17 19:45:18,977 - {"area":"guangdong","uid":"219","os":"andriod","ch":"360","appid":"data2020","mid":"mid_141","type":"startup","vs":"1.1.3","ts":1605620776162}
+2020-11-17 19:45:18,980 - {"area":"guangdong","uid":"219","itemid":2,"npgid":44,"evid":"addCart","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_141","type":"event","ts":1605614206708}
+2020-11-17 19:45:18,982 - {"area":"guangdong","uid":"219","itemid":14,"npgid":2,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_141","type":"event","ts":1605619793376}
+2020-11-17 19:45:18,983 - {"area":"guangdong","uid":"219","itemid":33,"npgid":18,"evid":"addComment","os":"andriod","pgid":22,"appid":"data2020","mid":"mid_141","type":"event","ts":1605615098175}
+2020-11-17 19:45:19,986 - {"area":"guangdong","uid":"390","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_420","type":"startup","vs":"1.2.0","ts":1605619865416}
+2020-11-17 19:45:19,988 - {"area":"guangdong","uid":"390","itemid":22,"npgid":30,"evid":"clickItem","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_420","type":"event","ts":1605629380514}
+2020-11-17 19:45:19,990 - {"area":"guangdong","uid":"390","itemid":19,"npgid":22,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_420","type":"event","ts":1605621955727}
+2020-11-17 19:45:19,992 - {"area":"guangdong","uid":"390","itemid":18,"npgid":16,"evid":"clickItem","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_420","type":"event","ts":1605629722720}
+2020-11-17 19:45:20,994 - {"area":"heilongjiang","uid":"103","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_418","type":"startup","vs":"1.1.2","ts":1605623094492}
+2020-11-17 19:45:20,997 - {"area":"heilongjiang","uid":"103","itemid":24,"npgid":47,"evid":"addFavor","os":"andriod","pgid":8,"appid":"data2020","mid":"mid_418","type":"event","ts":1605623596339}
+2020-11-17 19:45:20,999 - {"area":"heilongjiang","uid":"103","itemid":11,"npgid":31,"evid":"addCart","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_418","type":"event","ts":1605616355603}
+2020-11-17 19:45:21,001 - {"area":"heilongjiang","uid":"103","itemid":22,"npgid":5,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_418","type":"event","ts":1605622915555}
+2020-11-17 19:45:21,003 - {"area":"heilongjiang","uid":"103","itemid":18,"npgid":39,"evid":"addCart","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_418","type":"event","ts":1605626637905}
+2020-11-17 19:45:21,005 - {"area":"heilongjiang","uid":"103","itemid":26,"npgid":18,"evid":"addComment","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_418","type":"event","ts":1605628400460}
+2020-11-17 19:45:21,007 - {"area":"heilongjiang","uid":"103","itemid":39,"npgid":34,"evid":"addComment","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_418","type":"event","ts":1605619575091}
+2020-11-17 19:45:21,009 - {"area":"heilongjiang","uid":"103","itemid":7,"npgid":49,"evid":"addComment","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_418","type":"event","ts":1605615351765}
+2020-11-17 19:45:21,011 - {"area":"heilongjiang","uid":"103","itemid":0,"npgid":47,"evid":"clickItem","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_418","type":"event","ts":1605618208037}
+2020-11-17 19:45:21,013 - {"area":"heilongjiang","uid":"103","itemid":15,"npgid":44,"evid":"addFavor","os":"andriod","pgid":30,"appid":"data2020","mid":"mid_418","type":"event","ts":1605629994664}
+2020-11-17 19:45:21,015 - {"area":"heilongjiang","uid":"103","itemid":37,"npgid":26,"evid":"addFavor","os":"andriod","pgid":8,"appid":"data2020","mid":"mid_418","type":"event","ts":1605617957695}
+2020-11-17 19:45:21,016 - {"area":"heilongjiang","uid":"103","itemid":42,"npgid":24,"evid":"clickItem","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_418","type":"event","ts":1605614141043}
+2020-11-17 19:45:21,018 - {"area":"heilongjiang","uid":"103","itemid":44,"npgid":32,"evid":"addFavor","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_418","type":"event","ts":1605630765031}
+2020-11-17 19:45:21,020 - {"area":"heilongjiang","uid":"103","itemid":44,"npgid":38,"evid":"clickItem","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_418","type":"event","ts":1605616705418}
+2020-11-17 19:45:21,022 - {"area":"heilongjiang","uid":"103","itemid":30,"npgid":12,"evid":"clickItem","os":"andriod","pgid":9,"appid":"data2020","mid":"mid_418","type":"event","ts":1605616520436}
+2020-11-17 19:45:21,023 - {"area":"heilongjiang","uid":"103","itemid":5,"npgid":34,"evid":"addFavor","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_418","type":"event","ts":1605621425873}
+2020-11-17 19:45:21,025 - {"area":"heilongjiang","uid":"103","itemid":11,"npgid":38,"evid":"addCart","os":"andriod","pgid":36,"appid":"data2020","mid":"mid_418","type":"event","ts":1605620800160}
+2020-11-17 19:45:22,027 - {"area":"tianjin","uid":"47","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_382","type":"startup","vs":"1.1.3","ts":1605626457022}
+2020-11-17 19:45:22,030 - {"area":"tianjin","uid":"47","itemid":23,"npgid":46,"evid":"addCart","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_382","type":"event","ts":1605619070658}
+2020-11-17 19:45:22,032 - {"area":"tianjin","uid":"47","itemid":21,"npgid":44,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_382","type":"event","ts":1605619859611}
+2020-11-17 19:45:23,033 - {"area":"hebei","uid":"351","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_47","type":"startup","vs":"1.1.3","ts":1605630945758}
+2020-11-17 19:45:23,036 - {"area":"hebei","uid":"351","itemid":10,"npgid":40,"evid":"clickItem","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_47","type":"event","ts":1605617117715}
+2020-11-17 19:45:23,039 - {"area":"hebei","uid":"351","itemid":31,"npgid":25,"evid":"clickItem","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_47","type":"event","ts":1605627903944}
+2020-11-17 19:45:23,041 - {"area":"hebei","uid":"351","itemid":0,"npgid":29,"evid":"clickItem","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_47","type":"event","ts":1605621928564}
+2020-11-17 19:45:24,044 - {"area":"tianjin","uid":"375","os":"andriod","ch":"360","appid":"data2020","mid":"mid_376","type":"startup","vs":"1.1.3","ts":1605619454286}
+2020-11-17 19:45:24,047 - {"area":"tianjin","uid":"375","itemid":40,"npgid":48,"evid":"addCart","os":"andriod","pgid":24,"appid":"data2020","mid":"mid_376","type":"event","ts":1605620203636}
+2020-11-17 19:45:25,050 - {"area":"hebei","uid":"326","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_234","type":"startup","vs":"1.1.3","ts":1605622851227}
+2020-11-17 19:45:25,053 - {"area":"hebei","uid":"326","itemid":29,"npgid":14,"evid":"clickItem","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_234","type":"event","ts":1605630674347}
+2020-11-17 19:45:25,055 - {"area":"hebei","uid":"326","itemid":32,"npgid":23,"evid":"addCart","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_234","type":"event","ts":1605627902349}
+2020-11-17 19:45:25,057 - {"area":"hebei","uid":"326","itemid":41,"npgid":27,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_234","type":"event","ts":1605626039775}
+2020-11-17 19:45:25,058 - {"area":"hebei","uid":"326","itemid":45,"npgid":43,"evid":"clickItem","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_234","type":"event","ts":1605627092655}
+2020-11-17 19:45:25,060 - {"area":"hebei","uid":"326","itemid":32,"npgid":46,"evid":"clickItem","os":"andriod","pgid":2,"appid":"data2020","mid":"mid_234","type":"event","ts":1605617039895}
+2020-11-17 19:45:25,062 - {"area":"hebei","uid":"326","itemid":10,"npgid":50,"evid":"addComment","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_234","type":"event","ts":1605615767340}
+2020-11-17 19:45:25,063 - {"area":"hebei","uid":"326","itemid":41,"npgid":7,"evid":"clickItem","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_234","type":"event","ts":1605617338162}
+2020-11-17 19:45:25,065 - {"area":"hebei","uid":"326","itemid":46,"npgid":1,"evid":"addCart","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_234","type":"event","ts":1605622415888}
+2020-11-17 19:45:25,067 - {"area":"hebei","uid":"326","itemid":41,"npgid":35,"evid":"clickItem","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_234","type":"event","ts":1605624848810}
+2020-11-17 19:45:25,068 - {"area":"hebei","uid":"326","itemid":17,"npgid":46,"evid":"clickItem","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_234","type":"event","ts":1605622304876}
+2020-11-17 19:45:25,070 - {"area":"hebei","uid":"326","itemid":13,"npgid":27,"evid":"clickItem","os":"andriod","pgid":21,"appid":"data2020","mid":"mid_234","type":"event","ts":1605617780221}
+2020-11-17 19:45:25,071 - {"area":"hebei","uid":"326","itemid":8,"npgid":16,"evid":"clickItem","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_234","type":"event","ts":1605630139488}
+2020-11-17 19:45:25,073 - {"area":"hebei","uid":"326","itemid":16,"npgid":8,"evid":"addFavor","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_234","type":"event","ts":1605626803487}
+2020-11-17 19:45:25,077 - {"area":"hebei","uid":"326","itemid":18,"npgid":37,"evid":"addFavor","os":"andriod","pgid":32,"appid":"data2020","mid":"mid_234","type":"event","ts":1605626304806}
+2020-11-17 19:45:25,079 - {"area":"hebei","uid":"326","itemid":12,"npgid":12,"evid":"addCart","os":"andriod","pgid":37,"appid":"data2020","mid":"mid_234","type":"event","ts":1605620471648}
+2020-11-17 19:45:26,081 - {"area":"shanghai","uid":"238","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_393","type":"startup","vs":"1.1.1","ts":1605628071481}
+2020-11-17 19:45:26,084 - {"area":"shanghai","uid":"238","itemid":12,"npgid":10,"evid":"addCart","os":"ios","pgid":24,"appid":"data2020","mid":"mid_393","type":"event","ts":1605615001698}
+2020-11-17 19:45:27,086 - {"area":"tianjin","uid":"387","os":"andriod","ch":"360","appid":"data2020","mid":"mid_363","type":"startup","vs":"1.1.1","ts":1605629684907}
+2020-11-17 19:45:27,088 - {"area":"tianjin","uid":"387","itemid":44,"npgid":36,"evid":"addCart","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_363","type":"event","ts":1605627638108}
+2020-11-17 19:45:27,089 - {"area":"tianjin","uid":"387","itemid":10,"npgid":9,"evid":"addCart","os":"andriod","pgid":38,"appid":"data2020","mid":"mid_363","type":"event","ts":1605628896539}
+2020-11-17 19:45:27,090 - {"area":"tianjin","uid":"387","itemid":42,"npgid":18,"evid":"addComment","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_363","type":"event","ts":1605624854302}
+2020-11-17 19:45:28,092 - {"area":"guangdong","uid":"234","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_91","type":"startup","vs":"1.2.0","ts":1605630774288}
+2020-11-17 19:45:29,094 - {"area":"sichuan","uid":"42","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_256","type":"startup","vs":"1.2.0","ts":1605615746848}
+2020-11-17 19:45:30,099 - {"area":"shandong","uid":"97","os":"andriod","ch":"360","appid":"data2020","mid":"mid_499","type":"startup","vs":"1.1.3","ts":1605627456765}
+2020-11-17 19:45:30,101 - {"area":"shandong","uid":"97","itemid":38,"npgid":25,"evid":"addComment","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_499","type":"event","ts":1605625800459}
+2020-11-17 19:45:30,103 - {"area":"shandong","uid":"97","itemid":34,"npgid":31,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_499","type":"event","ts":1605629802975}
+2020-11-17 19:45:30,105 - {"area":"shandong","uid":"97","itemid":25,"npgid":8,"evid":"addComment","os":"andriod","pgid":47,"appid":"data2020","mid":"mid_499","type":"event","ts":1605629301884}
+2020-11-17 19:45:30,107 - {"area":"shandong","uid":"97","itemid":6,"npgid":2,"evid":"addCart","os":"andriod","pgid":28,"appid":"data2020","mid":"mid_499","type":"event","ts":1605629911811}
+2020-11-17 19:45:30,109 - {"area":"shandong","uid":"97","itemid":42,"npgid":27,"evid":"addComment","os":"andriod","pgid":44,"appid":"data2020","mid":"mid_499","type":"event","ts":1605624707636}
+2020-11-17 19:45:30,110 - {"area":"shandong","uid":"97","itemid":11,"npgid":4,"evid":"clickItem","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_499","type":"event","ts":1605621432513}
+2020-11-17 19:45:30,112 - {"area":"shandong","uid":"97","itemid":11,"npgid":29,"evid":"addComment","os":"andriod","pgid":41,"appid":"data2020","mid":"mid_499","type":"event","ts":1605620394044}
+2020-11-17 19:45:30,114 - {"area":"shandong","uid":"97","itemid":34,"npgid":34,"evid":"addFavor","os":"andriod","pgid":19,"appid":"data2020","mid":"mid_499","type":"event","ts":1605614955761}
+2020-11-17 19:45:30,116 - {"area":"shandong","uid":"97","itemid":42,"npgid":1,"evid":"addCart","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_499","type":"event","ts":1605620044401}
+2020-11-17 19:45:30,118 - {"area":"shandong","uid":"97","itemid":22,"npgid":23,"evid":"clickItem","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_499","type":"event","ts":1605625730253}
+2020-11-17 19:45:31,119 - {"area":"guangdong","uid":"200","os":"andriod","ch":"baidu","appid":"data2020","mid":"mid_360","type":"startup","vs":"1.1.3","ts":1605614967234}
+2020-11-17 19:45:32,121 - {"area":"beijing","uid":"434","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_232","type":"startup","vs":"1.2.0","ts":1605620333980}
+2020-11-17 19:45:32,122 - {"area":"beijing","uid":"434","itemid":46,"npgid":16,"evid":"addCart","os":"andriod","pgid":6,"appid":"data2020","mid":"mid_232","type":"event","ts":1605624852606}
+2020-11-17 19:45:32,123 - {"area":"beijing","uid":"434","itemid":33,"npgid":33,"evid":"addFavor","os":"andriod","pgid":40,"appid":"data2020","mid":"mid_232","type":"event","ts":1605614876141}
+2020-11-17 19:45:32,124 - {"area":"beijing","uid":"434","itemid":13,"npgid":46,"evid":"addFavor","os":"andriod","pgid":11,"appid":"data2020","mid":"mid_232","type":"event","ts":1605627370020}
+2020-11-17 19:45:32,126 - {"area":"beijing","uid":"434","itemid":12,"npgid":9,"evid":"addComment","os":"andriod","pgid":5,"appid":"data2020","mid":"mid_232","type":"event","ts":1605629815414}
+2020-11-17 19:45:32,127 - {"area":"beijing","uid":"434","itemid":49,"npgid":13,"evid":"addCart","os":"andriod","pgid":49,"appid":"data2020","mid":"mid_232","type":"event","ts":1605619713607}
+2020-11-17 19:45:33,128 - {"area":"guangdong","uid":"23","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_443","type":"startup","vs":"1.2.0","ts":1605614285297}
+2020-11-17 19:45:34,130 - {"area":"guangdong","uid":"295","os":"andriod","ch":"huawei","appid":"data2020","mid":"mid_271","type":"startup","vs":"1.1.3","ts":1605625419712}
+2020-11-17 19:45:34,132 - {"area":"guangdong","uid":"295","itemid":34,"npgid":17,"evid":"clickItem","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_271","type":"event","ts":1605629904054}
+2020-11-17 19:45:34,134 - {"area":"guangdong","uid":"295","itemid":22,"npgid":15,"evid":"addFavor","os":"andriod","pgid":25,"appid":"data2020","mid":"mid_271","type":"event","ts":1605627399771}
+2020-11-17 19:45:34,136 - {"area":"guangdong","uid":"295","itemid":41,"npgid":49,"evid":"clickItem","os":"andriod","pgid":3,"appid":"data2020","mid":"mid_271","type":"event","ts":1605629642837}
+2020-11-17 19:45:34,138 - {"area":"guangdong","uid":"295","itemid":28,"npgid":44,"evid":"clickItem","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_271","type":"event","ts":1605616640675}
+2020-11-17 19:45:35,139 - {"area":"shandong","uid":"311","os":"ios","ch":"appstore","appid":"data2020","mid":"mid_272","type":"startup","vs":"1.1.3","ts":1605629114930}
+2020-11-17 19:45:35,140 - {"area":"shandong","uid":"311","itemid":0,"npgid":20,"evid":"addFavor","os":"ios","pgid":2,"appid":"data2020","mid":"mid_272","type":"event","ts":1605617675434}
+2020-11-17 19:45:35,141 - {"area":"shandong","uid":"311","itemid":1,"npgid":15,"evid":"clickItem","os":"ios","pgid":8,"appid":"data2020","mid":"mid_272","type":"event","ts":1605614451917}
+2020-11-17 19:45:35,142 - {"area":"shandong","uid":"311","itemid":49,"npgid":43,"evid":"clickItem","os":"ios","pgid":18,"appid":"data2020","mid":"mid_272","type":"event","ts":1605617095601}
+2020-11-17 19:45:35,143 - {"area":"shandong","uid":"311","itemid":37,"npgid":15,"evid":"clickItem","os":"ios","pgid":36,"appid":"data2020","mid":"mid_272","type":"event","ts":1605627351867}
+2020-11-17 19:45:35,144 - {"area":"shandong","uid":"311","itemid":13,"npgid":20,"evid":"addFavor","os":"ios","pgid":6,"appid":"data2020","mid":"mid_272","type":"event","ts":1605613595917}
+2020-11-17 19:45:35,145 - {"area":"shandong","uid":"311","itemid":46,"npgid":38,"evid":"clickItem","os":"ios","pgid":30,"appid":"data2020","mid":"mid_272","type":"event","ts":1605628587313}
+2020-11-17 19:45:35,146 - {"area":"shandong","uid":"311","itemid":12,"npgid":34,"evid":"clickItem","os":"ios","pgid":3,"appid":"data2020","mid":"mid_272","type":"event","ts":1605615175473}
+2020-11-17 19:45:36,147 - {"area":"shan3xi","uid":"352","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_356","type":"startup","vs":"1.2.0","ts":1605630544103}
+2020-11-17 19:45:36,149 - {"area":"shan3xi","uid":"352","itemid":12,"npgid":24,"evid":"addCart","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_356","type":"event","ts":1605628559174}
+2020-11-17 19:45:36,151 - {"area":"shan3xi","uid":"352","itemid":30,"npgid":21,"evid":"addCart","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_356","type":"event","ts":1605618018149}
+2020-11-17 19:45:36,153 - {"area":"shan3xi","uid":"352","itemid":49,"npgid":9,"evid":"addComment","os":"andriod","pgid":17,"appid":"data2020","mid":"mid_356","type":"event","ts":1605626517674}
+2020-11-17 19:45:36,155 - {"area":"shan3xi","uid":"352","itemid":2,"npgid":47,"evid":"addFavor","os":"andriod","pgid":33,"appid":"data2020","mid":"mid_356","type":"event","ts":1605618005767}
+2020-11-17 19:45:37,156 - {"area":"beijing","uid":"85","os":"andriod","ch":"website","appid":"data2020","mid":"mid_242","type":"startup","vs":"1.2.0","ts":1605621772661}
+2020-11-17 19:45:37,159 - {"area":"beijing","uid":"85","itemid":39,"npgid":41,"evid":"addComment","os":"andriod","pgid":18,"appid":"data2020","mid":"mid_242","type":"event","ts":1605616381305}
+2020-11-17 19:45:37,160 - {"area":"beijing","uid":"85","itemid":23,"npgid":22,"evid":"clickItem","os":"andriod","pgid":43,"appid":"data2020","mid":"mid_242","type":"event","ts":1605627550349}
+2020-11-17 19:45:37,162 - {"area":"beijing","uid":"85","itemid":43,"npgid":24,"evid":"clickItem","os":"andriod","pgid":48,"appid":"data2020","mid":"mid_242","type":"event","ts":1605618892823}
+2020-11-17 19:45:38,164 - {"area":"heilongjiang","uid":"400","os":"andriod","ch":"tencent","appid":"data2020","mid":"mid_353","type":"startup","vs":"1.2.0","ts":1605621636655}
+2020-11-17 19:45:38,166 - {"area":"heilongjiang","uid":"400","itemid":15,"npgid":15,"evid":"addFavor","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_353","type":"event","ts":1605626827189}
+2020-11-17 19:45:38,169 - {"area":"heilongjiang","uid":"400","itemid":28,"npgid":25,"evid":"addCart","os":"andriod","pgid":29,"appid":"data2020","mid":"mid_353","type":"event","ts":1605627317660}
+2020-11-17 19:45:38,171 - {"area":"heilongjiang","uid":"400","itemid":1,"npgid":25,"evid":"addCart","os":"andriod","pgid":4,"appid":"data2020","mid":"mid_353","type":"event","ts":1605624113452}
+2020-11-17 19:45:38,172 - {"area":"heilongjiang","uid":"400","itemid":37,"npgid":48,"evid":"clickItem","os":"andriod","pgid":16,"appid":"data2020","mid":"mid_353","type":"event","ts":1605616207339}
+2020-11-17 19:45:38,174 - {"area":"heilongjiang","uid":"400","itemid":36,"npgid":12,"evid":"addComment","os":"andriod","pgid":13,"appid":"data2020","mid":"mid_353","type":"event","ts":1605631079542}
+2020-11-17 19:45:38,176 - {"area":"heilongjiang","uid":"400","itemid":47,"npgid":12,"evid":"addCart","os":"andriod","pgid":42,"appid":"data2020","mid":"mid_353","type":"event","ts":1605616424225}
+2020-11-17 19:45:38,178 - {"area":"heilongjiang","uid":"400","itemid":11,"npgid":16,"evid":"addComment","os":"andriod","pgid":46,"appid":"data2020","mid":"mid_353","type":"event","ts":1605622740021}
+2020-11-17 19:45:39,179 - {"area":"shanghai","uid":"39","os":"andriod","ch":"wandoujia","appid":"data2020","mid":"mid_486","type":"startup","vs":"1.2.0","ts":1605630537659}
+2020-11-17 19:45:39,180 - {"area":"shanghai","uid":"39","itemid":6,"npgid":11,"evid":"clickItem","os":"andriod","pgid":26,"appid":"data2020","mid":"mid_486","type":"event","ts":1605630937818}
+2020-11-17 19:45:39,182 - {"area":"shanghai","uid":"39","itemid":23,"npgid":10,"evid":"clickItem","os":"andriod","pgid":50,"appid":"data2020","mid":"mid_486","type":"event","ts":1605621220048}
+2020-11-17 19:45:39,183 - {"area":"shanghai","uid":"39","itemid":10,"npgid":37,"evid":"addCart","os":"andriod","pgid":20,"appid":"data2020","mid":"mid_486","type":"event","ts":1605627241143}
