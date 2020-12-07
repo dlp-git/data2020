@@ -32,12 +32,12 @@ public class LogJsonController {
     }
 
 
-//    public void sendKafka(JSONObject logJsonObj) {
+    public void sendKafka(JSONObject logJsonObj) {
 //        if ("startup".equals(logJsonObj.getString("type"))) {
 //            kafkaTemplate.send(GmallConstants.KAFKA_TOPIC_STARTUP, logJsonObj.toJSONString());
 //        } else {
 //            kafkaTemplate.send(GmallConstants.KAFKA_TOPIC_EVENT, logJsonObj.toJSONString());
 //        }
-//    }
+    }
 
 }
