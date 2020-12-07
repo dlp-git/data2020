@@ -66,6 +66,6 @@ public class EventJsonUDTF extends GenericUDTF {
 
     public static void main(String[] args) {
         EventJsonUDTF e = new EventJsonUDTF();
-//        e.process();
+
     }
 }
