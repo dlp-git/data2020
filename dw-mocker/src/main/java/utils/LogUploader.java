@@ -9,8 +9,8 @@ public class LogUploader {
         try {
             //不同的日志类型对应不同的URL
 
-            URL url = new URL("http://192.168.8.111:88/log");
-//            URL url = new URL("http://logserver/log");
+//            URL url = new URL("http://192.168.8.111/log");
+            URL url = new URL("http://logserver:88/log");
 
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             //设置请求方式为post

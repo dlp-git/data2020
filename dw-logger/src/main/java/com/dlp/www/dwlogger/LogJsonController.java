@@ -14,7 +14,7 @@ import java.util.Random;
 @RestController
 public class LogJsonController {
 
-    @Autowired
+
 //    private KafkaTemplate<String, String> kafkaTemplate;
 
     private static final Logger logger = LoggerFactory.getLogger(LogJsonController.class);
@@ -32,12 +32,12 @@ public class LogJsonController {
     }
 
 
-    public void sendKafka(JSONObject logJsonObj) {
-//        if ("startup".equals(logJsonObj.getString("type"))) {
-//            kafkaTemplate.send(GmallConstants.KAFKA_TOPIC_STARTUP, logJsonObj.toJSONString());
-//        } else {
-//            kafkaTemplate.send(GmallConstants.KAFKA_TOPIC_EVENT, logJsonObj.toJSONString());
-//        }
-    }
+    /*public void sendKafka(JSONObject logJsonObj) {
+        if ("startup".equals(logJsonObj.getString("type"))) {
+            kafkaTemplate.send(GmallConstants.KAFKA_TOPIC_STARTUP, logJsonObj.toJSONString());
+        } else {
+            kafkaTemplate.send(GmallConstants.KAFKA_TOPIC_EVENT, logJsonObj.toJSONString());
+        }
+    }*/
 
 }
